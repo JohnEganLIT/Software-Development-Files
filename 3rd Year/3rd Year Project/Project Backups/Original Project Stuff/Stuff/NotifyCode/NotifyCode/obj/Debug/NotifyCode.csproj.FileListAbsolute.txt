@@ -1,6 +1,0 @@
-C:\Users\colin\Desktop\NotifyCode\NotifyCode\bin\Debug\NotifyCode.exe.config
-C:\Users\colin\Desktop\NotifyCode\NotifyCode\bin\Debug\NotifyCode.exe
-C:\Users\colin\Desktop\NotifyCode\NotifyCode\bin\Debug\NotifyCode.pdb
-C:\Users\colin\Desktop\NotifyCode\NotifyCode\obj\Debug\NotifyCode.exe
-C:\Users\colin\Desktop\NotifyCode\NotifyCode\obj\Debug\NotifyCode.pdb
-C:\Users\colin\Desktop\NotifyCode\NotifyCode\obj\Debug\NotifyCode.csprojResolveAssemblyReference.cache
