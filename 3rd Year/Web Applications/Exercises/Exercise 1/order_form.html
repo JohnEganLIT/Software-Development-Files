@@ -1,0 +1,85 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<style>
+			#orderForm{
+				width: 600px;
+				float: left;
+				font-size: 1.2em;
+			}
+			
+			#orderForm .formHeader{
+				float: left;
+				background: lightgrey;
+				margin-right: 10px;
+				margin-bottom: 5px;
+				padding: 5px;
+			}
+			
+			#orderForm #item{
+				width: 180px;
+			}
+			
+			#orderForm #quantity{
+				width: 300px;
+			}
+			
+			#orderForm label{
+				width: 200px;
+				float: left;
+				margin-top: 5px;
+			}
+			
+			#orderForm #inputField{
+				float: left;
+				width: 100px;
+				height: 25px;
+				margin-bottom: 5px;
+				margin-right: 200px;
+				padding: 1px;
+				font-size: 1.1em;
+			}
+			
+			#orderForm #addrLabel{
+				margin-top: 15px;
+			}
+			
+			#orderForm #inputFieldAddr{
+				width: 190px;
+				height: 25px;
+				width: 300px;
+				margin-top: 10px;
+				padding: 1px;
+				font-size: 1.05em;
+			}
+				
+			#orderForm #submitBtn{
+				float: left;
+				height: 30px;
+				width: 150px;
+				margin: 20px 0px 0px 200px;
+				font-size: 0.8em;
+			}
+			
+			#orderForm #submitBtn:hover{
+				cursor: pointer;
+			}
+		</style>
+	</head>
+	<body>
+		<form id="orderForm" method="post" action="process_order.php">
+			<div class="formHeader" id="item">Item</div> <div class="formHeader" id="quantity">Quantity </div>
+			
+			<label>Tires</label>
+			<input name="tire" type="text" id="inputField" maxlength="4">
+			<label>Oil</label>
+			<input name="oil" type="text" id="inputField" maxlength="4">
+			<label>Spark Plugs</label>
+			<input name="sPlug" type="text" id="inputField" maxlength="4">
+			<label id="addrLabel">Shipping Address</label>
+			<input name="shipAddr" type="text" id="inputFieldAddr" maxlength="50">
+			
+			<input type="submit" value="Submit Order" id="submitBtn" />
+		</form>
+	</body>
+</html>

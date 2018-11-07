@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>application/views/homepageView.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/MiniThings/assets/css/style.css</file>
+            <file>file:/C:/xampp/htdocs/MiniThings/application/views/common/footer.php</file>
+            <file>file:/C:/xampp/htdocs/MiniThings/application/views/common/header.php</file>
+            <file>file:/C:/xampp/htdocs/MiniThings/application/config/database.php</file>
+            <file>file:/C:/xampp/htdocs/MiniThings/application/config/config.php</file>
+            <file>file:/C:/xampp/htdocs/MiniThings/application/controllers/productsController.php</file>
+            <file>file:/C:/xampp/htdocs/MiniThings/application/controllers/homepageController.php</file>
+            <file>file:/C:/xampp/htdocs/MiniThings/application/config/autoload.php</file>
+        </group>
+    </open-files>
+</project-private>

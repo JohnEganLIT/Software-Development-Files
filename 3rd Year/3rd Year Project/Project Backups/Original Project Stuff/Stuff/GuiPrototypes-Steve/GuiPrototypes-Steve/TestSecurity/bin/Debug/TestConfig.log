@@ -1,0 +1,38 @@
+13/11/2016 11:25:17 [null] [INFO] Starting Up  
+13/11/2016 11:25:17 [null] [PASS] File 'test.json' saved successfully!
+13/11/2016 11:25:17 [null] [PASS] File 'test.json' opened successfully!
+13/11/2016 11:25:17 [null] [FAIL] File '' not saved! Empty path name is not legal.
+13/11/2016 11:25:17 [null] [FAIL] File '' not opened! Empty path name is not legal.
+13/11/2016 14:54:25 [null] [INFO] Starting Up  
+13/11/2016 14:54:25 [null] [PASS] File 'test.json' opened successfully!
+13/11/2016 14:54:25 [null] [PASS] File 'test.json' opened successfully!
+13/11/2016 14:54:25 [null] [PASS] File 'test.json' saved successfully!
+13/11/2016 14:54:25 [null] [PASS] File 'test.json' opened successfully!
+13/11/2016 14:54:25 [null] [FAIL] File '' not opened! Empty path name is not legal.
+13/11/2016 14:54:25 [null] [FAIL] File '' not opened! Empty path name is not legal.
+13/11/2016 14:54:25 [null] [FAIL] File '' not opened! Empty path name is not legal.
+13/11/2016 14:54:25 [null] [FAIL] File '' not saved! Empty path name is not legal.
+13/11/2016 14:54:25 [null] [FAIL] File '' not opened! Empty path name is not legal.
+13/11/2016 14:54:25 [null] [FAIL] File '' not opened! Empty path name is not legal.
+13/11/2016 14:57:20 [null] [INFO] Starting Up  
+13/11/2016 14:57:20 [null] [PASS] File 'test.json' opened successfully!
+13/11/2016 14:57:20 [null] [PASS] File 'test.json' opened successfully!
+13/11/2016 14:57:20 [null] [PASS] File 'test.json' saved successfully!
+13/11/2016 14:57:20 [null] [PASS] File 'test.json' opened successfully!
+13/11/2016 14:57:20 [null] [FAIL] File '' not opened! Empty path name is not legal.
+13/11/2016 14:57:20 [null] [FAIL] File '' not opened! Empty path name is not legal.
+13/11/2016 14:57:20 [null] [FAIL] File '' not opened! Empty path name is not legal.
+13/11/2016 14:57:20 [null] [FAIL] File '' not saved! Empty path name is not legal.
+13/11/2016 14:57:20 [null] [FAIL] File '' not opened! Empty path name is not legal.
+13/11/2016 14:57:20 [null] [FAIL] File '' not opened! Empty path name is not legal.
+13/11/2016 14:59:25 [null] [INFO] Starting Up  
+13/11/2016 14:59:25 [null] [PASS] File 'test.json' opened successfully!
+13/11/2016 14:59:25 [null] [PASS] File 'test.json' opened successfully!
+13/11/2016 14:59:25 [null] [PASS] File 'test.json' saved successfully!
+13/11/2016 14:59:25 [null] [PASS] File 'test.json' opened successfully!
+13/11/2016 14:59:25 [null] [FAIL] File '' not opened! Empty path name is not legal.
+13/11/2016 14:59:25 [null] [FAIL] File '' not opened! Empty path name is not legal.
+13/11/2016 14:59:25 [null] [FAIL] File '' not opened! Empty path name is not legal.
+13/11/2016 14:59:25 [null] [FAIL] File '' not saved! Empty path name is not legal.
+13/11/2016 14:59:25 [null] [FAIL] File '' not opened! Empty path name is not legal.
+13/11/2016 14:59:25 [null] [FAIL] File '' not opened! Empty path name is not legal.

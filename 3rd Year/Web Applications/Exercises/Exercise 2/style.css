@@ -1,0 +1,78 @@
+*{
+	font-size: 1.1em;
+	text-decoration: none;
+	color: black;
+}
+
+#header{
+	height: 50px;
+	
+}
+
+#header #headerTitle{
+	font-size: 1.3em;
+	float: left;
+	margin: 30px 10px 0px 10px;
+}
+
+#litLogo{
+	float: left;
+	width: 100px;
+	height: 100px;
+}
+
+#searchCriteria{
+	color: red;
+}
+
+#searchForm{
+	width: 400px;
+	margin-top: 100px;
+}
+
+#searchForm #location{
+	width: 400px;
+}
+
+#searchForm select{
+	width: 225px;
+}
+
+#searchForm #submit{
+	width: 200px;
+	margin-top: 15px;
+}
+
+#searchResult{
+	width: 400px;
+	background: lightgrey;
+	float: left;
+	margin: 20px;
+	padding: 0px 0px 15px 15px;
+}
+
+#searchResult:hover{
+	transform: scale(1.01);
+	cursor: pointer;
+}
+
+#searchResult img{
+	margin-right: 20px;
+}
+
+#result{
+	padding: 10px;
+}
+
+#result img{
+	height: 300px;
+	width: 400px;
+	padding-right: 20px;
+}
+
+#homeBtn{
+	color: blue;
+}
+
+
+
