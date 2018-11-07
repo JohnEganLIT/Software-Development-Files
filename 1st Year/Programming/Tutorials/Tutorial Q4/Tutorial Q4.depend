@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1409177389 source:c:\users\colin\desktop\college\programming\tutorial\tutorial q4\main.cpp
+	<iostream>
+	<fstream>
+

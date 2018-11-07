@@ -1,0 +1,43 @@
+body { 
+ background: #f3f2f3; 
+ color: #000000; 
+ font-family: Trebuchet MS, Arial, Times New Roman; 
+ font-size: small; 
+ float: left;
+ } 
+ 
+ 
+#container{ 
+ background: white; 
+margin: 0 auto; 
+ width: 80%; 
+ float: left;
+ 
+ } 
+ 
+header { 
+ background: white; 
+ 
+ } 
+ 
+#sidebar{ 
+ background: white; 
+ width: 20%; 
+ float: left; 
+ 
+ } 
+ 
+#content { 
+ background: #d2d0d2; 
+ width: 80%; 
+ float: left; 
+ 
+ 
+} 
+ 
+footer { 
+ background: white; 
+ clear: both; 
+ text-align: center; 
+ 
+ } 

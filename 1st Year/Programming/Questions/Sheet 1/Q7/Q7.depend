@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1408470729 source:c:\users\colin\desktop\college\q7\main.cpp
+	<iostream>
+
+1408548686 source:c:\users\colin\desktop\college\questions\sheet 1\q7\main.cpp
+	<iostream>
+	<iomanip>
+

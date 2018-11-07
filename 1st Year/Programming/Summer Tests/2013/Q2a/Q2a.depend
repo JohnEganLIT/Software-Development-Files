@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1409074435 source:c:\users\colin\desktop\college\q2a\main.cpp
+	<iostream>
+	<fstream>
+
+1409171268 source:c:\users\colin\desktop\college\exam papers\2013\q2a\main.cpp
+	<iostream>
+	<fstream>
+
+1409171268 source:c:\users\colin\desktop\college\exam papers\programming\2013\q2a\main.cpp
+	<iostream>
+	<fstream>
+

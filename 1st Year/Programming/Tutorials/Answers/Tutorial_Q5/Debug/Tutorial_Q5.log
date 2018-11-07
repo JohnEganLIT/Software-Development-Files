@@ -1,0 +1,28 @@
+﻿Build started 07/03/2014 18:50:27.
+     1>Project "C:\Users\Tom\Desktop\Tutorial_Q5\Tutorial_Q5\Tutorial_Q5.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Tutorial_Q5.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Tutorial_Q5.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Tutorial_Q5.cpp
+         Tutorial_Q5.cpp
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Tom\Desktop\Tutorial_Q5\Debug\Tutorial_Q5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Tutorial_Q5.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Tom\Desktop\Tutorial_Q5\Debug\Tutorial_Q5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Tom\Desktop\Tutorial_Q5\Debug\Tutorial_Q5.lib" /MACHINE:X86 Debug\Tutorial_Q5.exe.embed.manifest.res
+         Debug\stdafx.obj
+         Debug\Tutorial_Q5.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Tutorial_Q5.exe.embed.manifest" /manifest Debug\Tutorial_Q5.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Tutorial_Q5.vcxproj -> C:\Users\Tom\Desktop\Tutorial_Q5\Debug\Tutorial_Q5.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Tutorial_Q5.unsuccessfulbuild".
+         Touching "Debug\Tutorial_Q5.lastbuildstate".
+     1>Done Building Project "C:\Users\Tom\Desktop\Tutorial_Q5\Tutorial_Q5\Tutorial_Q5.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.71
