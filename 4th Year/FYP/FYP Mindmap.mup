@@ -1,0 +1,287 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "\n\nDevelopment\nof an Android App for live mapping of retail stores\n\n",
+      "id": 1,
+      "attr": {
+        "position": [
+          -79,
+          -41,
+          1
+        ]
+      },
+      "ideas": {
+        "2": {
+          "title": "Software",
+          "id": 8,
+          "ideas": {
+            "2": {
+              "title": "Technologies",
+              "id": 31,
+              "ideas": {
+                "1": {
+                  "title": "GPS",
+                  "id": 12,
+                  "attr": {
+                    "style": {
+                      "background": "#3366FF"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "NoSQL",
+                  "id": 33,
+                  "attr": {
+                    "style": {
+                      "width": 19.3091,
+                      "background": "#3366FF"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "MySQL",
+                  "id": 34,
+                  "attr": {
+                    "style": {
+                      "background": "#3366FF"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Android",
+                  "id": 37,
+                  "attr": {
+                    "style": {
+                      "background": "#3366FF"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#3366FF"
+                }
+              }
+            },
+            "1.5": {
+              "title": "Languages",
+              "id": 23,
+              "ideas": {
+                "1": {
+                  "title": "Scala",
+                  "id": 17,
+                  "attr": {
+                    "style": {
+                      "background": "#3366FF"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Java",
+                  "id": 24,
+                  "attr": {
+                    "style": {
+                      "background": "#3366FF"
+                    }
+                  }
+                },
+                "1.5": {
+                  "title": "SQL",
+                  "id": 29,
+                  "attr": {
+                    "style": {
+                      "background": "#3366FF"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#3366FF"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#3366FF"
+            }
+          }
+        },
+        "3": {
+          "title": "Research",
+          "id": 39,
+          "attr": {
+            "style": {
+              "background": "#FF6600"
+            },
+            "position": [
+              174.55905151367188,
+              133.01812744140625,
+              1
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Mapping implementation",
+              "id": 40,
+              "attr": {
+                "style": {
+                  "background": "#FF6600"
+                }
+              }
+            }
+          }
+        },
+        "-1": {
+          "title": "Functionality",
+          "id": 3,
+          "ideas": {
+            "1": {
+              "title": "Shopping list",
+              "id": 6,
+              "attr": {
+                "style": {
+                  "background": "#99CC00"
+                }
+              }
+            },
+            "2": {
+              "title": "Route mapping",
+              "id": 7,
+              "attr": {
+                "style": {
+                  "background": "#99CC00"
+                }
+              }
+            },
+            "3": {
+              "title": "Product Page",
+              "id": 62,
+              "attr": {
+                "style": {
+                  "background": "#99CC00"
+                }
+              }
+            },
+            "1.5": {
+              "title": "Search Box for products",
+              "id": 43,
+              "ideas": {},
+              "attr": {
+                "style": {
+                  "background": "#99CC00"
+                }
+              }
+            },
+            "1.75": {
+              "title": "Sign up/Login",
+              "id": 44,
+              "ideas": {
+                "1": {
+                  "title": "Password hashing",
+                  "id": 51,
+                  "attr": {
+                    "style": {
+                      "background": "#99CC00"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Forgot Password",
+                  "id": 54,
+                  "attr": {
+                    "style": {
+                      "background": "#99CC00"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Email & password",
+                  "id": 56,
+                  "attr": {
+                    "style": {
+                      "background": "#99CC00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#99CC00"
+                }
+              }
+            },
+            "1.625": {
+              "title": "Map Creator",
+              "id": 46,
+              "ideas": {
+                "1": {
+                  "title": "Aisles",
+                  "id": 59,
+                  "attr": {
+                    "style": {
+                      "background": "#99CC00"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Products",
+                  "id": 60,
+                  "attr": {
+                    "style": {
+                      "background": "#99CC00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#99CC00"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#99CC00"
+            }
+          }
+        },
+        "-2": {
+          "title": "Hardware",
+          "id": 9,
+          "ideas": {
+            "1": {
+              "title": "Barcode scanner",
+              "id": 10,
+              "attr": {
+                "style": {
+                  "background": "#FF0000"
+                }
+              }
+            },
+            "3": {
+              "title": "Smartphone",
+              "id": 13,
+              "attr": {
+                "style": {
+                  "background": "#FF0000"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#FF0000"
+            }
+          }
+        }
+      }
+    }
+  },
+  "title": "\n\nDevelopment\nof an Android App for live mapping of retail stores\n\n",
+  "links": []
+}
