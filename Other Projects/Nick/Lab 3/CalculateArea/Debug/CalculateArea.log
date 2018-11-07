@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  CalculateArea.cpp
+  Circle.cpp
+  Rectangle.cpp
+  Shape.cpp
+  Square.cpp
+  Triangle.cpp
+  Generating Code...
+  LINK : C:\Users\Colin\Google Drive\College\Other Projects\Nick\CalculateArea\Debug\CalculateArea.exe not found or not built by the last incremental link; performing full link
+  CalculateArea.vcxproj -> C:\Users\Colin\Google Drive\College\Other Projects\Nick\CalculateArea\Debug\CalculateArea.exe
