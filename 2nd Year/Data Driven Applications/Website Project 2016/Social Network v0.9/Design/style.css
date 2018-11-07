@@ -1,0 +1,524 @@
+/* <---------------> */
+/* <--- General ---> */ 
+/* <---------------> */
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+
+html{
+	height: 100%;
+}
+
+body{
+	height: 100%;
+	background: #EEEEEE;
+	font-family: "palatino linotype", arial;
+	overflow-y: scroll;     /* Keeps scrollbar on screen at all time */
+	font-size: 62.5%;     /* Sets a standard font size for entire website */
+}
+
+h1{
+	font-size: 3em;
+}
+
+h2{
+	font-size: 2.2em;
+}
+
+.rowContainer{     /* Keeps header and footer content in centre of page */
+	width: 1000px; 
+	display: block;
+	margin: auto;	
+	overflow: auto;
+}
+
+/* <------------------> */
+/* <----- Header -----> */
+/* <------------------> */
+header{
+	height: 50px;
+	min-width: 1200px;
+	background: #2B4A6F;
+}
+
+#logo{	
+	margin-left: 375px;
+	font-size: 3.8em;
+	color: white;
+}
+
+#logo:hover{
+	transform: scale(1.05);
+}
+
+#logoLoggedIn{
+	float: left;
+	margin: 2px 0px 0px 5px;
+	font-size: 3em;
+	color: white;
+}
+
+#logoLoggedIn:hover{
+	transform: scale(1.01);
+}
+
+#search{
+	float: left;
+	margin: 7px 0px 0px 100px;
+	height: 34px;
+}
+
+#searchBox{
+	width: 275px;
+	height: 100%;
+	padding-left: 5px;
+	font-size: 1.7em;
+	border-style: none;
+}
+
+#searchBtn{
+	width: 80px;
+	height: 100%;
+	border-style: none;
+	font-size: 1.6em;
+	background: #748BA7;
+	color: white;	
+}
+
+#searchBtn:hover{
+	cursor: pointer;
+	transform: scale(1.03);
+}
+
+#settingsCog{
+	float: left;
+	width: 25px;
+	height: 25px;
+	margin: 12px 0px 0px 100px;
+}
+
+#settingsCog:hover{
+	-webkit-transform: rotate(360deg);
+	-webkit-transition-duration: 10s;
+}
+
+#profilePicHeader{
+	float: left;
+	width: 35px;
+	height: 35px;
+	margin: 7px 0px 0px 10px;
+}
+
+#logoutBtnForm{
+	float: left;
+	height: 30px;
+	width: 100px;
+	margin: 10px 0px 0px 5px;
+	color: white;
+	font-size: 1.6em;
+	background: #2B4A6F;	
+	line-height: 95%;
+}
+
+#logoutBtn{	
+	background: #2B4A6F;
+	color: orange;
+	border-style: none;
+}
+
+#logoutBtn:hover{
+	cursor: pointer;
+	transform: scale(1.05);
+}
+
+/* <------------------------> */
+/* <----- Main Content -----> */
+/* <------------------------> */
+main{
+	width: 1000px; 
+	margin: auto;
+	min-height: calc(100% - 80px);
+    background: white;
+}
+
+/* <--- Login/Register Page ---> */
+
+/* Register Form */
+#regForm{
+	float: left;
+	margin: 85px 0px 0px 175px;
+	width: 274px;
+	padding: 5px 10px;
+	background: lightgrey;
+	box-shadow: 1px 1px 5px #888888;
+	border-radius: 10px;
+}
+
+#regForm h2{
+	text-align: center;
+	margin-bottom: 5px;
+	width: 274px;
+}
+
+#regForm input{
+	height: 30px;
+	font-size: 1.3em;
+	padding: 5px;
+	margin: 5px;
+}
+
+#regForm #firstName, #lastName{
+	width: 112px;
+}
+
+#regForm #email1, #email2, #pass1, #pass2{
+	width: 250px;
+}
+
+#regForm #birthday{
+	margin-left: 5px;	
+}
+
+#regForm #birthday label{
+	margin-right: 120px;
+	font-size: 1.3em;
+}
+
+#regForm #birthday select{
+	padding: 2px 5px;
+	width: 86px;
+}
+
+#regForm #genderBtns{
+	margin: 10px 0px 0px 6px;
+}
+
+#regForm #genderBtns label{
+	font-size: 1.5em;
+	vertical-align: middle;
+}
+
+#regForm #genderBtns input{
+	vertical-align: middle;
+	margin: 0px 10px 0px 2px;
+}
+
+#regForm #regBtn{
+	margin: 10px 35px;
+	height: 35px;
+	width: 200px;
+	border-style: none;
+	background: #748BA7;
+	color: white;
+	font-size: 1.1em;
+	box-shadow: 1px 1px 1px #888888;
+}
+
+#regBtn:hover{
+	cursor: pointer;
+	transform: scale(1.02);
+}
+
+/* Login Form */
+#loginForm{
+	float: left;
+	margin: 85px 0px 0px 100px;
+	width: 225px;
+	background: lightgrey;
+	padding: 10px 15px;
+	box-shadow: 1px 1px 5px #888888;
+	border-radius: 10px;
+}
+
+#loginForm h2{
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+#loginForm input{
+	height: 30px;
+	width: 200px;
+	font-size: 1.3m;
+	padding: 5px;
+	margin: 5px;
+}
+
+#loginForm #loginBtn{
+	margin: 10px 30px;
+	height: 35px;
+	width: 160px;
+	border-style: none;
+	background: #748BA7;
+	color: white;
+	font-size: 1.1em;
+	box-shadow: 1px 1px 1px #888888;
+}
+
+.statusGood{ 
+	margin: 25px;
+	color: green;
+	font-size: 2em;
+	text-align: center;
+}
+
+.statusBad{ 
+	margin: 25px;
+	color: red;
+	font-size: 2em;
+	text-align: center;
+}
+
+/* <--- Profile Page ---> */
+
+#profilePic{
+	float: left;
+	margin: 10px 0px 20px 10px;
+	height: 250px;
+	width: 250px;
+	border: solid 2px;
+	box-shadow: 1px 1px 1px #888888;
+}
+
+#profileInfo{
+	float: left;
+	margin: 10px 0px 0px 20px;
+	width: 400px;
+}
+
+#profileInfo p{
+	font-size: 1.5em;
+}
+
+#profileInfo #description{
+	margin-bottom: 10px;
+	font-size: 2em;
+	border-style: 1px solid;
+	word-wrap: break-word;
+}
+
+#profFromLives{
+	font-weight: bold;
+}
+
+#friendList{
+	float: left;
+	width: 250px;
+	height: 100px;
+	margin: 5px 0px 0px 50px;
+}
+
+#friendListPic{
+	float: left;
+	height: 50px;
+	width: 50px;
+}
+
+/* Edit Profile Form */
+
+#editProfForm{
+	float: left;
+	margin: 85px 0px 0px 100px;
+	width: 274px;
+	padding: 5px 10px;
+	background: lightgrey;
+	box-shadow: 1px 1px 5px #888888;
+}
+
+#editProfForm h2{
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+#currentProfilePic{
+	float: left;
+	margin: 10px 0px 20px 10px;
+	height: 250px;
+	width: 250px;
+	border: solid 2px;
+	box-shadow: 1px 1px 1px #888888;
+}
+
+#newProfilePic{
+	float: left;
+	margin: 10px 0px 20px 10px;
+	height: 250px;
+	width: 250px;
+	border: solid 2px;
+	box-shadow: 1px 1px 1px #888888;
+	display: none;
+}
+
+#editProfForm input{
+	height: 30px;
+	font-size: 1.3em;
+	margin-bottom: 5px;
+}
+
+#editProfForm label{
+	margin-right: 160px;
+	font-size: 1.2em;
+}
+
+#editProfForm #profName{
+	width: 129px;
+	padding-left: 3px;
+}
+
+#editProfForm #profDesc{
+	resize: none;
+	width: 272px;
+}
+
+#editProfForm #profFrom, #profLive{
+	width: 268px;
+	padding-left: 3px;
+}
+
+#editProfForm #profRelationship{
+	width: 225px;
+	padding: 3px;
+}
+
+#editProfForm #birthday #day{
+	width: 55px;
+	padding: 3px 0px 3px 5px;
+}
+
+#editProfForm #birthday #month{
+	width: 95px;
+	padding: 3px;
+}
+
+#editProfForm #birthday #year{
+	width: 70px;
+	padding: 3px;
+}
+
+#editProfForm #editProfileBtn{
+	margin: 10px 35px;
+	height: 35px;
+	width: 200px;
+	border-style: none;
+	background: #748BA7;
+	color: white;
+	font-size: 1.1em;
+	box-shadow: 1px 1px 1px #888888;
+}
+
+#editProfForm #editProfileBtn:hover{
+	cursor: pointer;
+	transform: scale(1.02);
+}
+
+
+/* Upload Profile Picture Form */
+
+#profPicForm{
+	float: left;
+	width: 275px;
+	margin: 85px 0px 0px 50px;
+	background: lightgrey;
+	box-shadow: 1px 1px 5px #888888;
+}
+
+#profPicForm #profPicSaveBtn{
+	margin: 10px 35px;
+	height: 35px; 
+	width: 200px;
+	border-style: none;
+	background: #748BA7;
+	color: white;
+	font-size: 1.1em;
+	box-shadow: 1px 1px 1px #888888;
+}
+
+#profPicForm h2{
+	text-align: center;
+}
+
+#profPicForm #chooseFileBtn{
+	margin-left: 10px;
+}
+
+#profPicForm #profPicSaveBtn:hover{
+	cursor: pointer;
+	transform: scale(1.02);	
+}
+
+/* <--- Search Page ---> */
+#searchResult{
+	float: left;
+	background: lightgrey;
+	margin: 10px 0px 10px 175px;
+	width: 650px;
+	height: 150px;
+}
+
+#searchResult a{
+	text-decoration: none;
+	color: black;
+}
+
+#searchResult:hover{
+	transform: scale(1.01);
+	cursor: pointer;
+}
+
+#searchResult #searchResultPic{
+	float: left;
+	height: 150px;
+	width: 150px;
+}
+
+#searchResult #searchResultName{
+	float: left;
+	width: 495px;
+	padding: 3px 0px 0px 5px;
+}
+
+#searchResult #searchResultDesc{
+	float: left;
+	width: 495px;
+	font-size: 1.4em;
+	margin: 5px 0px 0px 5px;
+}
+
+#searchResult #searchResultDOB{
+	float: left;
+	width: 495px;
+	font-size: 1.3em;
+	margin: 10px 0px 0px 5px;
+}
+
+#searchResult #searchResultRelationship{
+	float: left;
+	width: 495px;
+	font-size: 1.3em;
+	margin: 2px 0px 0px 5px;
+}
+
+#searchResult #searchResultFrom{
+	float: left;
+	width: 495px;
+	font-size: 1.3em;
+	margin: 2px 0px 0px 5px;
+}
+
+#searchResult #searchResultLives{
+	float: left;
+	width: 495px;
+	font-size: 1.3em;
+	margin: 2px 0px 0px 5px;
+}
+
+/* <------------------> */
+/* <----- Footer -----> */
+/* <------------------> */
+footer{
+	color: white;
+	background: #2B4A6F;
+	min-width: 1200px;
+	min-height: 30px;
+}

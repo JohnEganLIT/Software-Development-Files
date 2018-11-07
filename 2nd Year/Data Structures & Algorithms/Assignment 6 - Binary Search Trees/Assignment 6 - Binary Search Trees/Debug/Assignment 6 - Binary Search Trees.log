@@ -1,0 +1,5 @@
+﻿  addrBook.cpp
+c:\users\colin\desktop\assignment 6 - binary search trees\assignment 6 - binary search trees\addrbook.h(9): error C2143: syntax error: missing ';' before '*'
+c:\users\colin\desktop\assignment 6 - binary search trees\assignment 6 - binary search trees\addrbook.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\colin\desktop\assignment 6 - binary search trees\assignment 6 - binary search trees\addrbook.h(9): error C2238: unexpected token(s) preceding ';'
+c:\users\colin\desktop\assignment 6 - binary search trees\assignment 6 - binary search trees\addrbook.cpp(20): error C2182: 'search': illegal use of type 'void'

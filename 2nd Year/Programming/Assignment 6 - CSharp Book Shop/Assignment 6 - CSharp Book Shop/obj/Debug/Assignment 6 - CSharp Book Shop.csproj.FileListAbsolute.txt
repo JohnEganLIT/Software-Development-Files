@@ -1,0 +1,30 @@
+C:\Users\k00186813\Desktop\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\bin\Debug\Assignment 6 - CSharp Book Shop.exe.config
+C:\Users\k00186813\Desktop\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\obj\Debug\Assignment 6 - CSharp Book Shop.csprojResolveAssemblyReference.cache
+C:\Users\k00186813\Desktop\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\bin\Debug\Assignment 6 - CSharp Book Shop.exe
+C:\Users\k00186813\Desktop\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\bin\Debug\Assignment 6 - CSharp Book Shop.pdb
+C:\Users\k00186813\Desktop\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\obj\Debug\Assignment 6 - CSharp Book Shop.exe
+C:\Users\k00186813\Desktop\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\obj\Debug\Assignment 6 - CSharp Book Shop.pdb
+C:\Users\Colin Maher\Google Drive\College\Programming\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\bin\Debug\Assignment 6 - CSharp Book Shop.exe.config
+C:\Users\Colin Maher\Google Drive\College\Programming\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\obj\Debug\Assignment 6 - CSharp Book Shop.exe
+C:\Users\Colin Maher\Google Drive\College\Programming\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\obj\Debug\Assignment 6 - CSharp Book Shop.pdb
+C:\Users\Colin Maher\Google Drive\College\Programming\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\bin\Debug\Assignment 6 - CSharp Book Shop.exe
+C:\Users\Colin Maher\Google Drive\College\Programming\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\bin\Debug\Assignment 6 - CSharp Book Shop.pdb
+C:\Users\Colin Maher\Google Drive\College\Programming\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\obj\Debug\Assignment 6 - CSharp Book Shop.csprojResolveAssemblyReference.cache
+C:\Users\colin\Google Drive\College\Programming\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\bin\Debug\Assignment 6 - CSharp Book Shop.exe.config
+C:\Users\colin\Google Drive\College\Programming\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\obj\Debug\Assignment 6 - CSharp Book Shop.exe
+C:\Users\colin\Google Drive\College\Programming\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\obj\Debug\Assignment 6 - CSharp Book Shop.pdb
+C:\Users\colin\Google Drive\College\Programming\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\bin\Debug\Assignment 6 - CSharp Book Shop.exe
+C:\Users\colin\Google Drive\College\Programming\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\bin\Debug\Assignment 6 - CSharp Book Shop.pdb
+C:\Users\colin\Google Drive\College\Programming\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\obj\Debug\Assignment 6 - CSharp Book Shop.csprojResolveAssemblyReference.cache
+C:\Users\colin\Desktop\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\bin\Debug\Assignment 6 - CSharp Book Shop.exe.config
+C:\Users\colin\Desktop\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\obj\Debug\Assignment 6 - CSharp Book Shop.exe
+C:\Users\colin\Desktop\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\obj\Debug\Assignment 6 - CSharp Book Shop.pdb
+C:\Users\colin\Desktop\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\bin\Debug\Assignment 6 - CSharp Book Shop.exe
+C:\Users\colin\Desktop\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\bin\Debug\Assignment 6 - CSharp Book Shop.pdb
+C:\Users\colin\Desktop\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\obj\Debug\Assignment 6 - CSharp Book Shop.csprojResolveAssemblyReference.cache
+C:\Users\Colin Maher\Desktop\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\bin\Debug\Assignment 6 - CSharp Book Shop.exe.config
+C:\Users\Colin Maher\Desktop\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\obj\Debug\Assignment 6 - CSharp Book Shop.exe
+C:\Users\Colin Maher\Desktop\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\obj\Debug\Assignment 6 - CSharp Book Shop.pdb
+C:\Users\Colin Maher\Desktop\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\obj\Debug\Assignment 6 - CSharp Book Shop.csprojResolveAssemblyReference.cache
+C:\Users\Colin Maher\Desktop\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\bin\Debug\Assignment 6 - CSharp Book Shop.exe
+C:\Users\Colin Maher\Desktop\Assignment 6 - CSharp Book Shop\Assignment 6 - CSharp Book Shop\bin\Debug\Assignment 6 - CSharp Book Shop.pdb

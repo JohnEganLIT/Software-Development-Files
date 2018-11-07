@@ -1,0 +1,6 @@
+C:\Users\colin\Desktop\Bitwise Operators\Bitwise Operators\bin\Debug\Bitwise Operators.exe.config
+C:\Users\colin\Desktop\Bitwise Operators\Bitwise Operators\bin\Debug\Bitwise Operators.exe
+C:\Users\colin\Desktop\Bitwise Operators\Bitwise Operators\bin\Debug\Bitwise Operators.pdb
+C:\Users\colin\Desktop\Bitwise Operators\Bitwise Operators\obj\Debug\Bitwise Operators.csprojResolveAssemblyReference.cache
+C:\Users\colin\Desktop\Bitwise Operators\Bitwise Operators\obj\Debug\Bitwise Operators.exe
+C:\Users\colin\Desktop\Bitwise Operators\Bitwise Operators\obj\Debug\Bitwise Operators.pdb

@@ -1,0 +1,14 @@
+C:\Users\colin\Desktop\WPF Global Exception Handling\WPF Global Exception Handling\obj\Debug\WPF Global Exception Handling.csprojResolveAssemblyReference.cache
+C:\Users\colin\Desktop\WPF Global Exception Handling\WPF Global Exception Handling\obj\Debug\MainWindow.g.cs
+C:\Users\colin\Desktop\WPF Global Exception Handling\WPF Global Exception Handling\obj\Debug\App.g.cs
+C:\Users\colin\Desktop\WPF Global Exception Handling\WPF Global Exception Handling\obj\Debug\WPF Global Exception Handling_MarkupCompile.cache
+C:\Users\colin\Desktop\WPF Global Exception Handling\WPF Global Exception Handling\obj\Debug\WPF Global Exception Handling_MarkupCompile.lref
+C:\Users\colin\Desktop\WPF Global Exception Handling\WPF Global Exception Handling\bin\Debug\WPF Global Exception Handling.exe.config
+C:\Users\colin\Desktop\WPF Global Exception Handling\WPF Global Exception Handling\bin\Debug\WPF Global Exception Handling.exe
+C:\Users\colin\Desktop\WPF Global Exception Handling\WPF Global Exception Handling\bin\Debug\WPF Global Exception Handling.pdb
+C:\Users\colin\Desktop\WPF Global Exception Handling\WPF Global Exception Handling\obj\Debug\MainWindow.baml
+C:\Users\colin\Desktop\WPF Global Exception Handling\WPF Global Exception Handling\obj\Debug\WPF Global Exception Handling.g.resources
+C:\Users\colin\Desktop\WPF Global Exception Handling\WPF Global Exception Handling\obj\Debug\WPF_Global_Exception_Handling.Properties.Resources.resources
+C:\Users\colin\Desktop\WPF Global Exception Handling\WPF Global Exception Handling\obj\Debug\WPF Global Exception Handling.csproj.GenerateResource.Cache
+C:\Users\colin\Desktop\WPF Global Exception Handling\WPF Global Exception Handling\obj\Debug\WPF Global Exception Handling.exe
+C:\Users\colin\Desktop\WPF Global Exception Handling\WPF Global Exception Handling\obj\Debug\WPF Global Exception Handling.pdb

@@ -1,0 +1,13 @@
+C:\Users\colin\Desktop\WPF ToolTip\WPF ToolTip\bin\Debug\WPF ToolTip.exe.config
+C:\Users\colin\Desktop\WPF ToolTip\WPF ToolTip\bin\Debug\WPF ToolTip.exe
+C:\Users\colin\Desktop\WPF ToolTip\WPF ToolTip\bin\Debug\WPF ToolTip.pdb
+C:\Users\colin\Desktop\WPF ToolTip\WPF ToolTip\obj\Debug\MainWindow.g.cs
+C:\Users\colin\Desktop\WPF ToolTip\WPF ToolTip\obj\Debug\App.g.cs
+C:\Users\colin\Desktop\WPF ToolTip\WPF ToolTip\obj\Debug\WPF ToolTip_MarkupCompile.cache
+C:\Users\colin\Desktop\WPF ToolTip\WPF ToolTip\obj\Debug\WPF ToolTip_MarkupCompile.lref
+C:\Users\colin\Desktop\WPF ToolTip\WPF ToolTip\obj\Debug\MainWindow.baml
+C:\Users\colin\Desktop\WPF ToolTip\WPF ToolTip\obj\Debug\WPF ToolTip.g.resources
+C:\Users\colin\Desktop\WPF ToolTip\WPF ToolTip\obj\Debug\WPF_ToolTip.Properties.Resources.resources
+C:\Users\colin\Desktop\WPF ToolTip\WPF ToolTip\obj\Debug\WPF ToolTip.csproj.GenerateResource.Cache
+C:\Users\colin\Desktop\WPF ToolTip\WPF ToolTip\obj\Debug\WPF ToolTip.exe
+C:\Users\colin\Desktop\WPF ToolTip\WPF ToolTip\obj\Debug\WPF ToolTip.pdb

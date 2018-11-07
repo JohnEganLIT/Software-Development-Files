@@ -1,0 +1,158 @@
+
+header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;	 
+}
+
+nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:600px;
+    width:130px;
+    float:left;
+    padding:5px;	      
+}
+section {
+    width:700px;
+	height:600px;
+    float:left;
+    padding:5px;	 	 
+}
+
+section.right {
+	background-color:#eeeeee;
+    width:200px;
+	height:600px;
+    float:right;
+    padding:5px;	 	 
+}
+
+footer.debug {
+    background-color:#ccddaa;
+    color:red;
+    clear:both;
+    text-align:left;
+    padding:5px;	 	 
+}
+
+footer.copyright {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;	 	 
+}
+
+form.button    {
+margin: 50;
+position:left;
+width:400px;
+height:25px;
+font-family: Tahoma, Geneva, sans-serif;
+font-size: 14px;
+font-style: italic;
+line-height: 24px;
+font-weight: bold;
+color: #09C;
+text-decoration: none;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+}
+
+
+form.getinput    {
+background: -webkit-gradient(linear, bottom, left 175px, from(#CCCCCC), to(#EEEEEE));
+background: -moz-linear-gradient(bottom, #CCCCCC, #EEEEEE 175px);
+margin:50;
+position:left;
+width:600px;
+height:300px;
+font-family: Tahoma, Geneva, sans-serif;
+font-size: 14px;
+font-style: italic;
+line-height: 24px;
+font-weight: bold;
+color: #666666;
+text-decoration: none;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+padding:10px;
+border: 1px solid #999;
+border: inset 1px solid #333;
+-webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+-moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+}
+
+input    {
+width:375px;
+display:block;
+border: 1px solid #999;
+height: 35px;
+-webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+-moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+}
+
+option    {
+width:375px;
+display:block;
+border: 1px solid #999;
+height: 35px;
+-webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+-moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+}
+
+select    {
+width:375px;
+display:block;
+border: 1px solid #999;
+height: 35px;
+-webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+-moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+}
+
+table {
+	width: 500px;
+	padding: 0;
+	margin: 50;
+}
+
+
+caption {
+	padding: 0 0 5px 0;
+	font: italic 30px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+
+th {
+	font: bold 20px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	color: #4f6b72;
+	border-right: 1px solid #C1DAD7;
+	border-bottom: 1px solid #C1DAD7;
+	border-top: 1px solid #C1DAD7;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-align: left;
+	padding: 6px 6px 6px 12px;
+	background: #CAE8EA url(images/bg_header.jpg) no-repeat;
+}
+
+
+
+td {
+	background: -webkit-gradient(linear, bottom, left 175px, from(#EEEEEE), to(#CCCCCC));
+	background: -moz-linear-gradient(bottom, #EEEEEE, #CCCCCC 175px);
+	border-right: 1px solid #C1DAD7;
+	border-bottom: 1px solid #C1DAD7;
+	padding: 6px 6px 6px 12px;
+
+}
+
+}
+

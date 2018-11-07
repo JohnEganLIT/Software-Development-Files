@@ -1,0 +1,6 @@
+C:\Users\colin\Desktop\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\colin\Desktop\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\colin\Desktop\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\colin\Desktop\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\colin\Desktop\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\colin\Desktop\Inheritance\obj\Debug\Inheritance.pdb

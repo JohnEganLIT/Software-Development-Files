@@ -1,0 +1,14 @@
+C:\Users\colin\Desktop\WPF DockPanel\WPF DockPanel\bin\Debug\WPF DockPanel.exe.config
+C:\Users\colin\Desktop\WPF DockPanel\WPF DockPanel\bin\Debug\WPF DockPanel.exe
+C:\Users\colin\Desktop\WPF DockPanel\WPF DockPanel\bin\Debug\WPF DockPanel.pdb
+C:\Users\colin\Desktop\WPF DockPanel\WPF DockPanel\obj\Debug\WPF DockPanel.csprojResolveAssemblyReference.cache
+C:\Users\colin\Desktop\WPF DockPanel\WPF DockPanel\obj\Debug\MainWindow.g.cs
+C:\Users\colin\Desktop\WPF DockPanel\WPF DockPanel\obj\Debug\App.g.cs
+C:\Users\colin\Desktop\WPF DockPanel\WPF DockPanel\obj\Debug\WPF DockPanel_MarkupCompile.cache
+C:\Users\colin\Desktop\WPF DockPanel\WPF DockPanel\obj\Debug\WPF DockPanel_MarkupCompile.lref
+C:\Users\colin\Desktop\WPF DockPanel\WPF DockPanel\obj\Debug\MainWindow.baml
+C:\Users\colin\Desktop\WPF DockPanel\WPF DockPanel\obj\Debug\WPF DockPanel.g.resources
+C:\Users\colin\Desktop\WPF DockPanel\WPF DockPanel\obj\Debug\WPF_DockPanel.Properties.Resources.resources
+C:\Users\colin\Desktop\WPF DockPanel\WPF DockPanel\obj\Debug\WPF DockPanel.csproj.GenerateResource.Cache
+C:\Users\colin\Desktop\WPF DockPanel\WPF DockPanel\obj\Debug\WPF DockPanel.exe
+C:\Users\colin\Desktop\WPF DockPanel\WPF DockPanel\obj\Debug\WPF DockPanel.pdb

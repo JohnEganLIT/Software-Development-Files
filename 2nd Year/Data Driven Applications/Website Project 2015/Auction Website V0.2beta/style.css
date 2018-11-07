@@ -1,0 +1,154 @@
+* {
+	margin: 0;
+	padding: 0;	
+}
+
+.container{
+	width: 1200px;
+	height: auto;
+	margin: 0 auto;
+}
+
+body{
+	font-family: palatino linotype;
+	line-height: 2em;
+	background-color: #ebebeb;
+}
+
+#header{
+	background-color: #2B4A6F;
+	height: 45px; 
+	width: 100%;
+}
+
+#logo{
+	float: left;
+	font-size: 200%; 
+	margin-top: 5px;
+	margin-left: 10px;
+	margin-right: 170px;
+}
+
+#logo a{
+	color: white;
+	text-decoration: none;
+}
+
+#searchBox input{
+	width: 350px;
+	height: 35px;
+	margin-top: 5px;
+	margin-right: 5px;
+	text-align: left;
+	font-size: 20px;
+	border-style: none;
+	float: left;
+}
+
+#searchButton input{
+	margin-top: 5px;
+	width: 100px;
+	height: 35px;
+	background-color: #748BA7;
+	color: white;
+	border-style: none;
+	font-size: 100%;
+	float: left;
+}
+
+#searchButton input:hover{
+	background-color: grey;
+	cursor: pointer;
+}
+
+#nav{
+	list-style: none;
+	float: right;
+	margin-top: 6px;
+}
+
+#nav a{
+	text-decoration: none;
+	list-style: none;
+	color: white;
+}
+
+#nav li{
+	height: 33px;
+	width: 80px;
+	float: right;
+	margin-left: 15px;
+	background-color: #748BA7;
+	text-align: center;
+}
+
+#nav li:hover{
+	background-color: grey;
+	cursor: pointer;
+}
+
+#categories {
+	margin-bottom: 20px;
+	margin-left: 70px;
+}
+
+#categories a{
+	color: #FFFFFF;
+	text-align: center;	
+	text-decoration: none;
+}
+
+#categories li{
+	width: 125px;
+	height: 33px;
+	margin-left: 15px;
+	background-color: #748BA7;
+	text-align: center;
+	float: left;
+}
+
+#categories li:hover{
+	cursor: pointer;
+} 
+
+.main{
+	padding: 20px;
+	text-align: center;
+	background-color: white;
+	clear: both;
+	min-height: 82.9%; /*Keeps footer at bottom of page*/
+	overflow: hidden;
+}
+
+.productRow{
+	margin-left: 25px;
+	margin-bottom: 5px;
+}
+
+.product{
+	margin-left: 25px;
+	float: left;
+}
+
+.price{
+	margin-top: -5px;
+}
+
+.productName{
+	margin-top: -10px;
+}
+
+.buyButton{
+	width: 50px;
+}
+
+#footer{
+	background-color: #2B4A6F;
+	color: white;
+	bottom:0;
+	height:20px;	
+	padding: 12px;
+}
+
+
+

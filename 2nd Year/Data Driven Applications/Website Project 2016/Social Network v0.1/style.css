@@ -1,0 +1,91 @@
+/* <--- General ---> */ 
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+
+html{
+	height: 100%;
+}
+
+body{
+	background: #EEEEEE;
+	height: 100%;
+	font-family: "palatino linotype", arial;
+	background: #EEEEEE;
+	overflow-y: scroll;
+}
+
+.container{
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+/* <----- Header -----> */
+header{
+	background: #2B4A6F;
+	min-width: 1200px;
+	height: 50px;
+}
+
+#logo{
+	margin: 2px 120px 0px 5px;
+	float: left;
+	color: white;
+	font-size: 2.1em;
+}
+
+#logo:hover{
+	transform: scale(1.01);
+}
+
+#search{
+	float: left;
+	margin-top: 7px;
+	margin-right: 15px;
+}
+
+#searchBox{
+	float: left;
+	height: 30px;
+	width: 300px;
+	padding: 3px;
+	border-style: none;
+	font-size: 1.2em;
+}
+
+#searchBtn{
+	float: left;
+	height: 36px;
+	width: 75px;
+	border-style: none;
+	background: #748BA7;
+	color: white;
+	font-size: 1.1em;
+}
+
+#searchBtn:hover{
+	cursor: pointer;
+	transform: scale(1.02);
+}
+
+/* <----- Main Content -----> */
+#main{
+	background: white;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	min-height: calc(100% - 80px);
+}
+
+
+/* <----- Footer -----> */
+footer{
+	color: white;
+	background: #2B4A6F;
+	min-width: 1200px;
+	height: 30px;
+}

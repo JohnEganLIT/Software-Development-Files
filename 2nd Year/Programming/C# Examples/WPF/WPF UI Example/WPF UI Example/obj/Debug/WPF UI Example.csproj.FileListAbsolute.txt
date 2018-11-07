@@ -1,0 +1,14 @@
+C:\Users\colin\Desktop\WPF UI Example\WPF UI Example\bin\Debug\WPF UI Example.exe.config
+C:\Users\colin\Desktop\WPF UI Example\WPF UI Example\bin\Debug\WPF UI Example.exe
+C:\Users\colin\Desktop\WPF UI Example\WPF UI Example\bin\Debug\WPF UI Example.pdb
+C:\Users\colin\Desktop\WPF UI Example\WPF UI Example\obj\Debug\WPF UI Example.csprojResolveAssemblyReference.cache
+C:\Users\colin\Desktop\WPF UI Example\WPF UI Example\obj\Debug\MainWindow.g.cs
+C:\Users\colin\Desktop\WPF UI Example\WPF UI Example\obj\Debug\App.g.cs
+C:\Users\colin\Desktop\WPF UI Example\WPF UI Example\obj\Debug\WPF UI Example_MarkupCompile.cache
+C:\Users\colin\Desktop\WPF UI Example\WPF UI Example\obj\Debug\WPF UI Example_MarkupCompile.lref
+C:\Users\colin\Desktop\WPF UI Example\WPF UI Example\obj\Debug\MainWindow.baml
+C:\Users\colin\Desktop\WPF UI Example\WPF UI Example\obj\Debug\WPF UI Example.g.resources
+C:\Users\colin\Desktop\WPF UI Example\WPF UI Example\obj\Debug\WPF_UI_Example.Properties.Resources.resources
+C:\Users\colin\Desktop\WPF UI Example\WPF UI Example\obj\Debug\WPF UI Example.csproj.GenerateResource.Cache
+C:\Users\colin\Desktop\WPF UI Example\WPF UI Example\obj\Debug\WPF UI Example.exe
+C:\Users\colin\Desktop\WPF UI Example\WPF UI Example\obj\Debug\WPF UI Example.pdb

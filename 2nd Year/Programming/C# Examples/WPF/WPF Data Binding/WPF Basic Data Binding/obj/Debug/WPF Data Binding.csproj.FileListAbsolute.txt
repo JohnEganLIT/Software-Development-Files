@@ -1,0 +1,14 @@
+C:\Users\colin\Desktop\WPF Data Binding\WPF Data Binding\bin\Debug\WPF Data Binding.exe.config
+C:\Users\colin\Desktop\WPF Data Binding\WPF Data Binding\bin\Debug\WPF Data Binding.exe
+C:\Users\colin\Desktop\WPF Data Binding\WPF Data Binding\bin\Debug\WPF Data Binding.pdb
+C:\Users\colin\Desktop\WPF Data Binding\WPF Data Binding\obj\Debug\WPF Data Binding.csprojResolveAssemblyReference.cache
+C:\Users\colin\Desktop\WPF Data Binding\WPF Data Binding\obj\Debug\MainWindow.g.cs
+C:\Users\colin\Desktop\WPF Data Binding\WPF Data Binding\obj\Debug\App.g.cs
+C:\Users\colin\Desktop\WPF Data Binding\WPF Data Binding\obj\Debug\WPF Data Binding_MarkupCompile.cache
+C:\Users\colin\Desktop\WPF Data Binding\WPF Data Binding\obj\Debug\WPF Data Binding_MarkupCompile.lref
+C:\Users\colin\Desktop\WPF Data Binding\WPF Data Binding\obj\Debug\MainWindow.baml
+C:\Users\colin\Desktop\WPF Data Binding\WPF Data Binding\obj\Debug\WPF Data Binding.g.resources
+C:\Users\colin\Desktop\WPF Data Binding\WPF Data Binding\obj\Debug\WPF_Data_Binding.Properties.Resources.resources
+C:\Users\colin\Desktop\WPF Data Binding\WPF Data Binding\obj\Debug\WPF Data Binding.csproj.GenerateResource.Cache
+C:\Users\colin\Desktop\WPF Data Binding\WPF Data Binding\obj\Debug\WPF Data Binding.exe
+C:\Users\colin\Desktop\WPF Data Binding\WPF Data Binding\obj\Debug\WPF Data Binding.pdb

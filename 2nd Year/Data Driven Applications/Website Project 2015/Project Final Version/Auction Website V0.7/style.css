@@ -1,0 +1,485 @@
+/* <--- General ---> */ 
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+
+html{
+	height: 100%;
+}
+
+body{
+	height: 100%;
+	font-family: "palatino linotype", arial;
+	background: #EEEEEE;
+	overflow-y: scroll;
+}
+
+.container{
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.accessDenied{
+	text-align: center;
+	margin-top: 50px;
+	font-size: 2.5em;
+	color: red;
+}
+
+/* <----- Header -----> */
+header{
+	height: 50px;
+	min-width: 1200px;
+	background: #2B4A6F;
+}
+
+#logo{
+	margin: 2px 120px 0px 5px;
+	float: left;
+	color: white;
+	font-size: 2.1em;
+}
+
+#logo:hover{
+	transform: scale(1.01);
+}
+
+#search{
+	float: left;
+	margin-top: 7px;
+	margin-right: 15px;
+}
+
+#searchBox{
+	float: left;
+	height: 30px;
+	width: 300px;
+	padding: 3px;
+	border-style: none;
+	font-size: 1.2em;
+}
+
+#searchBtn{
+	float: left;
+	height: 36px;
+	width: 75px;
+	border-style: none;
+	background: #748BA7;
+	color: white;
+	font-size: 1.1em;
+}
+
+#searchBtn:hover{
+	cursor: pointer;
+	transform: scale(1.02);
+}
+
+#username{
+	float: left;
+	margin-top: 13px;
+	color: white;
+	line-height: 0.7em;
+}
+
+#logoutBtn{
+	color: orange;
+}
+
+.headerBtn{
+	float: right;
+	color: white;
+	font-size: 1.3em;
+	margin: 9px 6px 0px 20px;
+}
+
+.headerBtn:hover{
+	transform: scale(1.03);
+}
+
+/* <----- Main content -----> */
+.main{
+	min-height: calc(100% - 75px);
+	background: white;
+	overflow: auto;
+}
+
+/* index.php/search.php */
+#noAuctions{ 
+	text-align: center;
+	margin-top: 10px;
+}
+
+#arrowImage{
+	height: 200px;
+	margin-left: 700px;
+}
+
+.contentContainer{
+	background: lightgrey;
+	float: left;
+	margin: 40px 0px 60px 90px;
+	text-align: center;
+	overflow: hidden;
+}
+
+.contentContainer:hover{
+	cursor: pointer;
+}
+
+.contentContainer h2{
+	padding: 5px;
+}
+
+.contentContainer img{
+	width: 280px;
+	height: 250px;
+	border: 1px solid;
+}
+
+.contentContainer .price{
+	padding: 3px 0px 5px 0px;
+}
+
+#noResult{
+	margin-top: 50px;
+	font-size: 1.5em;
+	text-align: center;
+	color: red;
+}
+
+/* Login.php/register.php */
+#loginForm{
+	width: 325px;
+	margin: auto;
+	padding-top: 20px;
+	text-align: center;
+	font-size: 1.2em;
+}
+
+#loginForm legend{
+	font-size: 2em;
+	padding: 10px 10px;
+	margin-left: 100px;
+}
+
+#loginForm  .inputField{
+	width: 325px;
+	padding: 5px 10px;
+	height: 30px;
+	font-size: 1.2em;
+}
+
+#loginBtn{
+	margin: 10px;
+	height: 35px;
+	width: 100px;
+	border-style: none;
+	background: #748BA7;
+	color: white;
+	font-size: 1.1em;
+}
+
+#loginBtn:hover{
+	cursor: pointer;
+	transform: scale(1.02);
+}
+
+#loginForm .statusGood{ 
+	color: green;
+	margin-top: 5px;
+	overflow: hidden;
+}
+
+#loginForm .statusBad{ 
+	color: red;
+	margin-top: 5px;
+	overflow: hidden;
+}
+
+/* account.php */
+.accountContainer{
+	margin: 20px auto;
+	padding: 5px;
+	width: 700px;
+	background: lightgrey;
+	line-height: 1.5em;
+}
+
+.accountContainer legend{
+	font-size: 1.5em;
+	padding-bottom: 10px;
+}
+
+.accountContainer th{
+	text-align: left;
+	width: 100px;
+}
+
+.accountContainer hr{
+	margin-bottom: 8px;
+}
+
+.accountContainer .inputField{
+	height: 25px;
+	width: 200px;
+	padding: 2px;
+}
+
+.accountContainer .col2{
+	min-width: 225px;
+}
+
+.accountContainer .col3{
+	
+}
+
+.accountContainer .col4{
+	width: 150px;
+}
+
+.accountContainer .formBtn{
+	width: 50px;
+	height: 25px;
+	margin-right: 5px; 
+}
+
+.accountStatusGood{
+	text-align: center;
+	color: green;
+}
+
+.accountStatusBad{
+	text-align: center;
+	color: red;
+}
+
+#accDate{
+	color: #177245;
+	font-size: 1.1em;
+	margin-bottom: 5px;
+}
+
+/* auction.php */
+#auctionForm{
+	width:383px;
+	margin: 20px auto;
+	background: lightgrey;
+	padding: 10px;
+}
+
+#auctionForm *{
+	display:block;
+}
+
+#auctionForm h1{
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+#auctionForm hr{
+	margin-bottom: 10px;
+}
+#auctionForm label{
+	font-size: 1.3em;
+	margin-top: 5px;
+}
+
+#auctionForm  p{
+	font-size: 0.8em;
+}
+
+#auctionForm #title{
+	font-size: 1.5em;
+}
+
+#auctionForm .inputField{
+	width: 375px;
+	height: 30px;
+	padding: 2px;
+}
+
+#auctionForm  #description{
+	width: 380px;
+	height: 50px;
+}
+
+#auctionForm  #price{
+	width: 100px;
+	margin-top: -5px;
+	display: inline-block;
+}
+
+#euro{
+	margin-right: 2px;
+	font-size: 1.5em;
+	display: inline-block;
+}
+
+#auctionForm #category{
+	margin-bottom: 10px;
+}
+
+#auctionForm  .formBtn{
+	margin: auto;
+	height: 35px;
+	width: 100px;
+	border-style: none;
+	background: #748BA7;
+	color: white;
+	font-size: 1.1em;
+	margin-top: 30px;
+}
+
+#auctionForm  .formBtn:hover{
+	transform: scale(1.01);
+	cursor: pointer;
+}
+
+.auctionStatusGood{
+	color: green;
+	font-size: 1.2em;
+	text-align: center;
+}
+
+.auctionStatusBad{
+	color: red;
+	font-size: 1.2em;
+	text-align: center;
+}
+
+/* viewAuction.php */
+#viewAuction{
+	width: 500px;
+	margin-left: 100px;
+	width: 925px;
+}
+
+#viewAuction *{
+	
+}
+
+#viewAuction h1{
+	margin: 5px;
+}
+
+#viewAuction img{
+	width: 350px;
+	height: 350px;
+	border: solid 1px;
+}
+
+#price{
+	font-size: 1.5em;
+	margin: 5px 0px 10px 0px;
+}
+
+#viewAuction p{
+	max-width: 500px;	
+	background: lightgrey;
+	padding: 10px;
+	word-wrap: break-word;
+	margin-bottom: 25px;
+}
+
+#liveBid{
+	float: right;
+	border: solid 1px;
+	margin-top: 150px;
+}
+
+#resetBtn{
+	float: left;
+	margin-left: 565px;
+	margin-top: -37px;
+	padding: 2px 5px;
+	background: #748BA7;
+	color: lightgrey;
+	position: absolute;
+}
+
+#resetBtn:hover{
+	transform: scale(1.01);
+}
+
+/* Loading spinner from http://projects.lukehaas.me/css-loaders/ */
+#loader {
+  display: none;
+  font-size: 10px;
+  margin: 50px auto;
+  width: 1em;
+  height: 1em;
+  border-radius: 50%;
+  position: relative;
+  text-indent: -9999em;
+  -webkit-animation: load4 1.3s infinite linear;
+  animation: load4 1.3s infinite linear;
+  -webkit-transform: translateZ(0);
+  -ms-transform: translateZ(0);
+  transform: translateZ(0);
+}
+@-webkit-keyframes load4 {
+  0%,
+  100% {
+    box-shadow: 0 -3em 0 0.2em #ffffff, 2em -2em 0 0em #ffffff, 3em 0 0 -1em #ffffff, 2em 2em 0 -1em #ffffff, 0 3em 0 -1em #ffffff, -2em 2em 0 -1em #ffffff, -3em 0 0 -1em #ffffff, -2em -2em 0 0 #ffffff;
+  }
+  12.5% {
+    box-shadow: 0 -3em 0 0 #ffffff, 2em -2em 0 0.2em #ffffff, 3em 0 0 0 #ffffff, 2em 2em 0 -1em #ffffff, 0 3em 0 -1em #ffffff, -2em 2em 0 -1em #ffffff, -3em 0 0 -1em #ffffff, -2em -2em 0 -1em #ffffff;
+  }
+  25% {
+    box-shadow: 0 -3em 0 -0.5em #ffffff, 2em -2em 0 0 #ffffff, 3em 0 0 0.2em #ffffff, 2em 2em 0 0 #ffffff, 0 3em 0 -1em #ffffff, -2em 2em 0 -1em #ffffff, -3em 0 0 -1em #ffffff, -2em -2em 0 -1em #ffffff;
+  }
+  37.5% {
+    box-shadow: 0 -3em 0 -1em #ffffff, 2em -2em 0 -1em #ffffff, 3em 0em 0 0 #ffffff, 2em 2em 0 0.2em #ffffff, 0 3em 0 0em #ffffff, -2em 2em 0 -1em #ffffff, -3em 0em 0 -1em #ffffff, -2em -2em 0 -1em #ffffff;
+  }
+  50% {
+    box-shadow: 0 -3em 0 -1em #ffffff, 2em -2em 0 -1em #ffffff, 3em 0 0 -1em #ffffff, 2em 2em 0 0em #ffffff, 0 3em 0 0.2em #ffffff, -2em 2em 0 0 #ffffff, -3em 0em 0 -1em #ffffff, -2em -2em 0 -1em #ffffff;
+  }
+  62.5% {
+    box-shadow: 0 -3em 0 -1em #ffffff, 2em -2em 0 -1em #ffffff, 3em 0 0 -1em #ffffff, 2em 2em 0 -1em #ffffff, 0 3em 0 0 #ffffff, -2em 2em 0 0.2em #ffffff, -3em 0 0 0 #ffffff, -2em -2em 0 -1em #ffffff;
+  }
+  75% {
+    box-shadow: 0em -3em 0 -1em #ffffff, 2em -2em 0 -1em #ffffff, 3em 0em 0 -1em #ffffff, 2em 2em 0 -1em #ffffff, 0 3em 0 -1em #ffffff, -2em 2em 0 0 #ffffff, -3em 0em 0 0.2em #ffffff, -2em -2em 0 0 #ffffff;
+  }
+  87.5% {
+    box-shadow: 0em -3em 0 0 #ffffff, 2em -2em 0 -1em #ffffff, 3em 0 0 -1em #ffffff, 2em 2em 0 -1em #ffffff, 0 3em 0 -1em #ffffff, -2em 2em 0 0 #ffffff, -3em 0em 0 0 #ffffff, -2em -2em 0 0.2em #ffffff;
+  }
+}
+@keyframes load4 {
+  0%,
+  100% {
+    box-shadow: 0 -3em 0 0.2em #ffffff, 2em -2em 0 0em #ffffff, 3em 0 0 -1em #ffffff, 2em 2em 0 -1em #ffffff, 0 3em 0 -1em #ffffff, -2em 2em 0 -1em #ffffff, -3em 0 0 -1em #ffffff, -2em -2em 0 0 #ffffff;
+  }
+  12.5% {
+    box-shadow: 0 -3em 0 0 #ffffff, 2em -2em 0 0.2em #ffffff, 3em 0 0 0 #ffffff, 2em 2em 0 -1em #ffffff, 0 3em 0 -1em #ffffff, -2em 2em 0 -1em #ffffff, -3em 0 0 -1em #ffffff, -2em -2em 0 -1em #ffffff;
+  }
+  25% {
+    box-shadow: 0 -3em 0 -0.5em #ffffff, 2em -2em 0 0 #ffffff, 3em 0 0 0.2em #ffffff, 2em 2em 0 0 #ffffff, 0 3em 0 -1em #ffffff, -2em 2em 0 -1em #ffffff, -3em 0 0 -1em #ffffff, -2em -2em 0 -1em #ffffff;
+  }
+  37.5% {
+    box-shadow: 0 -3em 0 -1em #ffffff, 2em -2em 0 -1em #ffffff, 3em 0em 0 0 #ffffff, 2em 2em 0 0.2em #ffffff, 0 3em 0 0em #ffffff, -2em 2em 0 -1em #ffffff, -3em 0em 0 -1em #ffffff, -2em -2em 0 -1em #ffffff;
+  }
+  50% {
+    box-shadow: 0 -3em 0 -1em #ffffff, 2em -2em 0 -1em #ffffff, 3em 0 0 -1em #ffffff, 2em 2em 0 0em #ffffff, 0 3em 0 0.2em #ffffff, -2em 2em 0 0 #ffffff, -3em 0em 0 -1em #ffffff, -2em -2em 0 -1em #ffffff;
+  }
+  62.5% {
+    box-shadow: 0 -3em 0 -1em #ffffff, 2em -2em 0 -1em #ffffff, 3em 0 0 -1em #ffffff, 2em 2em 0 -1em #ffffff, 0 3em 0 0 #ffffff, -2em 2em 0 0.2em #ffffff, -3em 0 0 0 #ffffff, -2em -2em 0 -1em #ffffff;
+  }
+  75% {
+    box-shadow: 0em -3em 0 -1em #ffffff, 2em -2em 0 -1em #ffffff, 3em 0em 0 -1em #ffffff, 2em 2em 0 -1em #ffffff, 0 3em 0 -1em #ffffff, -2em 2em 0 0 #ffffff, -3em 0em 0 0.2em #ffffff, -2em -2em 0 0 #ffffff;
+  }
+  87.5% {
+    box-shadow: 0em -3em 0 0 #ffffff, 2em -2em 0 -1em #ffffff, 3em 0 0 -1em #ffffff, 2em 2em 0 -1em #ffffff, 0 3em 0 -1em #ffffff, -2em 2em 0 0 #ffffff, -3em 0em 0 0 #ffffff, -2em -2em 0 0.2em #ffffff;
+  }
+}
+
+
+/* <----- Footer -----> */
+footer{
+	height: 25px;
+	min-width: 1200px;
+	background: #2B4A6F;
+	color: white;
+}

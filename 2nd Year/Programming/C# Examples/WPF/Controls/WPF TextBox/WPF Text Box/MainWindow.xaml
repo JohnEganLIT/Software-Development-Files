@@ -1,0 +1,22 @@
+﻿<Window x:Class="WPF_TextBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Text_Box"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel Margin="10">
+            <TextBox Width="100" Text="Single-line TextBox"/>
+            
+            <!-- AcceptsReturn makes it into a multi-line TextBox -->
+            <TextBox Width="100" Text="This is a Multi-line TextBox" SpellCheck.IsEnabled="True" AcceptsReturn="True" TextWrapping="Wrap" />
+
+            <DockPanel Margin="10">
+                <TextBox SelectionChanged="TextBox_SelectionChanged" DockPanel.Dock="Top" />
+                <TextBox Name="txtStatus" Margin="0 30 0 0" AcceptsReturn="True" TextWrapping="Wrap" IsReadOnly="True" />
+            </DockPanel>
+        </StackPanel>
+    </Grid>
+</Window>

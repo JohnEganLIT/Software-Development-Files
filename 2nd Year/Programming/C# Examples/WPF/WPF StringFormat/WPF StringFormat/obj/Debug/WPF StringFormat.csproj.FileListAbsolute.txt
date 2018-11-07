@@ -1,0 +1,14 @@
+C:\Users\colin\Desktop\WPF StringFormat\WPF StringFormat\bin\Debug\WPF StringFormat.exe.config
+C:\Users\colin\Desktop\WPF StringFormat\WPF StringFormat\bin\Debug\WPF StringFormat.exe
+C:\Users\colin\Desktop\WPF StringFormat\WPF StringFormat\bin\Debug\WPF StringFormat.pdb
+C:\Users\colin\Desktop\WPF StringFormat\WPF StringFormat\obj\Debug\WPF StringFormat.csprojResolveAssemblyReference.cache
+C:\Users\colin\Desktop\WPF StringFormat\WPF StringFormat\obj\Debug\MainWindow.g.cs
+C:\Users\colin\Desktop\WPF StringFormat\WPF StringFormat\obj\Debug\App.g.cs
+C:\Users\colin\Desktop\WPF StringFormat\WPF StringFormat\obj\Debug\WPF StringFormat_MarkupCompile.cache
+C:\Users\colin\Desktop\WPF StringFormat\WPF StringFormat\obj\Debug\WPF StringFormat_MarkupCompile.lref
+C:\Users\colin\Desktop\WPF StringFormat\WPF StringFormat\obj\Debug\MainWindow.baml
+C:\Users\colin\Desktop\WPF StringFormat\WPF StringFormat\obj\Debug\WPF StringFormat.g.resources
+C:\Users\colin\Desktop\WPF StringFormat\WPF StringFormat\obj\Debug\WPF_StringFormat.Properties.Resources.resources
+C:\Users\colin\Desktop\WPF StringFormat\WPF StringFormat\obj\Debug\WPF StringFormat.csproj.GenerateResource.Cache
+C:\Users\colin\Desktop\WPF StringFormat\WPF StringFormat\obj\Debug\WPF StringFormat.exe
+C:\Users\colin\Desktop\WPF StringFormat\WPF StringFormat\obj\Debug\WPF StringFormat.pdb

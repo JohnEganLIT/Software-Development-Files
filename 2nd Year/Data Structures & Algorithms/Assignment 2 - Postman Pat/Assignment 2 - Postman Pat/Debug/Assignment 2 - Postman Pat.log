@@ -1,0 +1,14 @@
+﻿Build started 14/10/2015 20:04:44.
+     1>Project "C:\Users\colin\Desktop\College\Data Structures & Algorithms\Assignment 2 - Postman Pat\Assignment 2 - Postman Pat\Assignment 2 - Postman Pat.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Assignment 2 - Postman Pat.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "Assignment 2 - Postman Pat.cpp"
+         Assignment 2 - Postman Pat.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\colin\Desktop\College\Data Structures & Algorithms\Assignment 2 - Postman Pat\Debug\Assignment 2 - Postman Pat.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\colin\Desktop\College\Data Structures & Algorithms\Assignment 2 - Postman Pat\Debug\Assignment 2 - Postman Pat.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\colin\Desktop\College\Data Structures & Algorithms\Assignment 2 - Postman Pat\Debug\Assignment 2 - Postman Pat.lib" /MACHINE:X86 "Debug\Assignment 2 - Postman Pat.obj"
+         Debug\stdafx.obj
+         Assignment 2 - Postman Pat.vcxproj -> C:\Users\colin\Desktop\College\Data Structures & Algorithms\Assignment 2 - Postman Pat\Debug\Assignment 2 - Postman Pat.exe
+     1>Done Building Project "C:\Users\colin\Desktop\College\Data Structures & Algorithms\Assignment 2 - Postman Pat\Assignment 2 - Postman Pat\Assignment 2 - Postman Pat.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.66

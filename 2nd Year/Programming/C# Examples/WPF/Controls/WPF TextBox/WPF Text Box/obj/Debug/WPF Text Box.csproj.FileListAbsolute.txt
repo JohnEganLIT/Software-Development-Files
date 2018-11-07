@@ -1,0 +1,14 @@
+C:\Users\colin\Desktop\WPF Text Box\WPF Text Box\bin\Debug\WPF Text Box.exe.config
+C:\Users\colin\Desktop\WPF Text Box\WPF Text Box\bin\Debug\WPF Text Box.exe
+C:\Users\colin\Desktop\WPF Text Box\WPF Text Box\bin\Debug\WPF Text Box.pdb
+C:\Users\colin\Desktop\WPF Text Box\WPF Text Box\obj\Debug\WPF Text Box.csprojResolveAssemblyReference.cache
+C:\Users\colin\Desktop\WPF Text Box\WPF Text Box\obj\Debug\MainWindow.g.cs
+C:\Users\colin\Desktop\WPF Text Box\WPF Text Box\obj\Debug\App.g.cs
+C:\Users\colin\Desktop\WPF Text Box\WPF Text Box\obj\Debug\WPF Text Box_MarkupCompile.cache
+C:\Users\colin\Desktop\WPF Text Box\WPF Text Box\obj\Debug\WPF Text Box_MarkupCompile.lref
+C:\Users\colin\Desktop\WPF Text Box\WPF Text Box\obj\Debug\MainWindow.baml
+C:\Users\colin\Desktop\WPF Text Box\WPF Text Box\obj\Debug\WPF Text Box.g.resources
+C:\Users\colin\Desktop\WPF Text Box\WPF Text Box\obj\Debug\WPF_Text_Box.Properties.Resources.resources
+C:\Users\colin\Desktop\WPF Text Box\WPF Text Box\obj\Debug\WPF Text Box.csproj.GenerateResource.Cache
+C:\Users\colin\Desktop\WPF Text Box\WPF Text Box\obj\Debug\WPF Text Box.exe
+C:\Users\colin\Desktop\WPF Text Box\WPF Text Box\obj\Debug\WPF Text Box.pdb

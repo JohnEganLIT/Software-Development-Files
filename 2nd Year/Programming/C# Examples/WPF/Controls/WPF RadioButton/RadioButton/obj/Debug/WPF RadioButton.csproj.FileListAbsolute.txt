@@ -1,0 +1,14 @@
+C:\Users\colin\Desktop\WPF RadioButton\RadioButton\bin\Debug\WPF RadioButton.exe.config
+C:\Users\colin\Desktop\WPF RadioButton\RadioButton\bin\Debug\WPF RadioButton.exe
+C:\Users\colin\Desktop\WPF RadioButton\RadioButton\bin\Debug\WPF RadioButton.pdb
+C:\Users\colin\Desktop\WPF RadioButton\RadioButton\obj\Debug\WPF RadioButton.csprojResolveAssemblyReference.cache
+C:\Users\colin\Desktop\WPF RadioButton\RadioButton\obj\Debug\MainWindow.g.cs
+C:\Users\colin\Desktop\WPF RadioButton\RadioButton\obj\Debug\App.g.cs
+C:\Users\colin\Desktop\WPF RadioButton\RadioButton\obj\Debug\WPF RadioButton_MarkupCompile.cache
+C:\Users\colin\Desktop\WPF RadioButton\RadioButton\obj\Debug\WPF RadioButton_MarkupCompile.lref
+C:\Users\colin\Desktop\WPF RadioButton\RadioButton\obj\Debug\MainWindow.baml
+C:\Users\colin\Desktop\WPF RadioButton\RadioButton\obj\Debug\WPF RadioButton.g.resources
+C:\Users\colin\Desktop\WPF RadioButton\RadioButton\obj\Debug\WPF_RadioButton.Properties.Resources.resources
+C:\Users\colin\Desktop\WPF RadioButton\RadioButton\obj\Debug\WPF RadioButton.csproj.GenerateResource.Cache
+C:\Users\colin\Desktop\WPF RadioButton\RadioButton\obj\Debug\WPF RadioButton.exe
+C:\Users\colin\Desktop\WPF RadioButton\RadioButton\obj\Debug\WPF RadioButton.pdb

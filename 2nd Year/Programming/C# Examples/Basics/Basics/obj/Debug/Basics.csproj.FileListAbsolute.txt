@@ -1,0 +1,6 @@
+D:\Google Drive\College\Programming\C# Examples\Basics\Basics\bin\Debug\Basics.exe.config
+D:\Google Drive\College\Programming\C# Examples\Basics\Basics\bin\Debug\Basics.exe
+D:\Google Drive\College\Programming\C# Examples\Basics\Basics\bin\Debug\Basics.pdb
+D:\Google Drive\College\Programming\C# Examples\Basics\Basics\obj\Debug\Basics.csprojResolveAssemblyReference.cache
+D:\Google Drive\College\Programming\C# Examples\Basics\Basics\obj\Debug\Basics.exe
+D:\Google Drive\College\Programming\C# Examples\Basics\Basics\obj\Debug\Basics.pdb

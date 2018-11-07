@@ -1,0 +1,5 @@
+m12345|password1|Colin Maher|20000|Old Cratloe Road||Limerick City|Limerick
+e23324|password2|Jimmy Reilly|20000|Lacey Square|Dualla Road|Cashel|Tipperary
+e28472|password3|Mickey Ryan|17000|Ashlawn||Athenry|Galway
+e12344|password4|Cian O'Flynn|15000|Rathkeale||Limerick|Limerick
+e12345|password5|Daniel Malone|22000|Bog Road||Ennis|Clare

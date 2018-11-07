@@ -1,0 +1,14 @@
+C:\Users\colin\Desktop\WPF Advanced Data Binding\WPF Advanced Data Binding\obj\Debug\WPF Advanced Data Binding.csprojResolveAssemblyReference.cache
+C:\Users\colin\Desktop\WPF Advanced Data Binding\WPF Advanced Data Binding\obj\Debug\MainWindow.g.cs
+C:\Users\colin\Desktop\WPF Advanced Data Binding\WPF Advanced Data Binding\obj\Debug\App.g.cs
+C:\Users\colin\Desktop\WPF Advanced Data Binding\WPF Advanced Data Binding\obj\Debug\WPF Advanced Data Binding_MarkupCompile.cache
+C:\Users\colin\Desktop\WPF Advanced Data Binding\WPF Advanced Data Binding\obj\Debug\WPF Advanced Data Binding_MarkupCompile.lref
+C:\Users\colin\Desktop\WPF Advanced Data Binding\WPF Advanced Data Binding\bin\Debug\WPF Advanced Data Binding.exe.config
+C:\Users\colin\Desktop\WPF Advanced Data Binding\WPF Advanced Data Binding\bin\Debug\WPF Advanced Data Binding.exe
+C:\Users\colin\Desktop\WPF Advanced Data Binding\WPF Advanced Data Binding\bin\Debug\WPF Advanced Data Binding.pdb
+C:\Users\colin\Desktop\WPF Advanced Data Binding\WPF Advanced Data Binding\obj\Debug\MainWindow.baml
+C:\Users\colin\Desktop\WPF Advanced Data Binding\WPF Advanced Data Binding\obj\Debug\WPF Advanced Data Binding.g.resources
+C:\Users\colin\Desktop\WPF Advanced Data Binding\WPF Advanced Data Binding\obj\Debug\WPF_Advanced_Data_Binding.Properties.Resources.resources
+C:\Users\colin\Desktop\WPF Advanced Data Binding\WPF Advanced Data Binding\obj\Debug\WPF Advanced Data Binding.csproj.GenerateResource.Cache
+C:\Users\colin\Desktop\WPF Advanced Data Binding\WPF Advanced Data Binding\obj\Debug\WPF Advanced Data Binding.exe
+C:\Users\colin\Desktop\WPF Advanced Data Binding\WPF Advanced Data Binding\obj\Debug\WPF Advanced Data Binding.pdb

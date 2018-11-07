@@ -1,0 +1,7 @@
+﻿  Assignment 2 - Book Shop.cpp
+c:\users\colin maher\google drive\college\programming\assignment 2 - book shop\assignment 2 - book shop\assignment 2 - book shop.cpp(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\colin maher\google drive\college\programming\assignment 2 - book shop\assignment 2 - book shop\assignment 2 - book shop.cpp(103): warning C4018: '<': signed/unsigned mismatch
+c:\users\colin maher\google drive\college\programming\assignment 2 - book shop\assignment 2 - book shop\assignment 2 - book shop.cpp(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\colin maher\google drive\college\programming\assignment 2 - book shop\assignment 2 - book shop\assignment 2 - book shop.cpp(166): warning C4018: '<': signed/unsigned mismatch
+c:\users\colin maher\google drive\college\programming\assignment 2 - book shop\assignment 2 - book shop\assignment 2 - book shop.cpp(60): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  Assignment 2 - Book Shop.vcxproj -> C:\Users\Colin Maher\Google Drive\College\Programming\Assignment 2 - Book Shop\Debug\Assignment 2 - Book Shop.exe

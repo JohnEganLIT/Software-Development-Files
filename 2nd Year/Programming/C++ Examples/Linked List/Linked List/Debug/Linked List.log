@@ -1,0 +1,21 @@
+﻿  LinkedList.cpp
+c:\users\colin\desktop\linked list\linked list\linkedlist.h(21): error C2059: syntax error: '<'
+  c:\users\colin\desktop\linked list\linked list\linkedlist.h(25): note: see reference to class template instantiation 'LinkedList<ItemType>' being compiled
+c:\users\colin\desktop\linked list\linked list\linkedlist.h(21): error C2238: unexpected token(s) preceding ';'
+c:\users\colin\desktop\linked list\linked list\linkedlist.h(23): error C2059: syntax error: '<'
+c:\users\colin\desktop\linked list\linked list\linkedlist.h(23): error C2238: unexpected token(s) preceding ';'
+c:\users\colin\desktop\linked list\linked list\linkedlist.cpp(16): error C2244: 'LinkedList::LinkedList': unable to match function definition to an existing declaration
+  c:\users\colin\desktop\linked list\linked list\linkedlist.cpp(12): note: see declaration of 'LinkedList::LinkedList'
+  c:\users\colin\desktop\linked list\linked list\linkedlist.cpp(16): note: definition
+  c:\users\colin\desktop\linked list\linked list\linkedlist.cpp(16): note: 'LinkedList::LinkedList(void)'
+  c:\users\colin\desktop\linked list\linked list\linkedlist.cpp(16): note: existing declarations
+  c:\users\colin\desktop\linked list\linked list\linkedlist.cpp(16): note: 'LinkedList<ItemType>::LinkedList(void)'
+c:\users\colin\desktop\linked list\linked list\linkedlist.cpp(30): error C2244: 'LinkedList::~LinkedList': unable to match function definition to an existing declaration
+  c:\users\colin\desktop\linked list\linked list\linkedlist.cpp(19): note: see declaration of 'LinkedList::~LinkedList'
+  c:\users\colin\desktop\linked list\linked list\linkedlist.cpp(30): note: definition
+  c:\users\colin\desktop\linked list\linked list\linkedlist.cpp(30): note: 'LinkedList::~LinkedList(void)'
+  c:\users\colin\desktop\linked list\linked list\linkedlist.cpp(30): note: existing declarations
+  c:\users\colin\desktop\linked list\linked list\linkedlist.cpp(30): note: 'LinkedList<ItemType>::~LinkedList(void)'
+c:\users\colin\desktop\linked list\linked list\linkedlist.cpp(155): error C2039: 'display': is not a member of 'LinkedList<ItemType>'
+  Linked List.cpp
+  Generating Code...

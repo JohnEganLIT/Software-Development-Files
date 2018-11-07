@@ -1,0 +1,14 @@
+C:\Users\colin\Desktop\WPF WrapPanel\WPF WrapPanel\bin\Debug\WPF WrapPanel.exe.config
+C:\Users\colin\Desktop\WPF WrapPanel\WPF WrapPanel\bin\Debug\WPF WrapPanel.exe
+C:\Users\colin\Desktop\WPF WrapPanel\WPF WrapPanel\bin\Debug\WPF WrapPanel.pdb
+C:\Users\colin\Desktop\WPF WrapPanel\WPF WrapPanel\obj\Debug\WPF WrapPanel.csprojResolveAssemblyReference.cache
+C:\Users\colin\Desktop\WPF WrapPanel\WPF WrapPanel\obj\Debug\MainWindow.g.cs
+C:\Users\colin\Desktop\WPF WrapPanel\WPF WrapPanel\obj\Debug\App.g.cs
+C:\Users\colin\Desktop\WPF WrapPanel\WPF WrapPanel\obj\Debug\WPF WrapPanel_MarkupCompile.cache
+C:\Users\colin\Desktop\WPF WrapPanel\WPF WrapPanel\obj\Debug\WPF WrapPanel_MarkupCompile.lref
+C:\Users\colin\Desktop\WPF WrapPanel\WPF WrapPanel\obj\Debug\MainWindow.baml
+C:\Users\colin\Desktop\WPF WrapPanel\WPF WrapPanel\obj\Debug\WPF WrapPanel.g.resources
+C:\Users\colin\Desktop\WPF WrapPanel\WPF WrapPanel\obj\Debug\WPF_WrapPanel.Properties.Resources.resources
+C:\Users\colin\Desktop\WPF WrapPanel\WPF WrapPanel\obj\Debug\WPF WrapPanel.csproj.GenerateResource.Cache
+C:\Users\colin\Desktop\WPF WrapPanel\WPF WrapPanel\obj\Debug\WPF WrapPanel.exe
+C:\Users\colin\Desktop\WPF WrapPanel\WPF WrapPanel\obj\Debug\WPF WrapPanel.pdb

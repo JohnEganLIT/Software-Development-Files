@@ -1,0 +1,7 @@
+Enums
+Maths
+Lambda expressions
+Linq
+Error handling
+Bitwise operators
+MVVM 

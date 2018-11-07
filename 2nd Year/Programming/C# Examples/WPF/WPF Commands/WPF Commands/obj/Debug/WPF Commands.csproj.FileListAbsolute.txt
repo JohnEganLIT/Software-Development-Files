@@ -1,0 +1,14 @@
+C:\Users\colin\Desktop\WPF Commands\WPF Commands\bin\Debug\WPF Commands.exe.config
+C:\Users\colin\Desktop\WPF Commands\WPF Commands\bin\Debug\WPF Commands.exe
+C:\Users\colin\Desktop\WPF Commands\WPF Commands\bin\Debug\WPF Commands.pdb
+C:\Users\colin\Desktop\WPF Commands\WPF Commands\obj\Debug\WPF Commands.csprojResolveAssemblyReference.cache
+C:\Users\colin\Desktop\WPF Commands\WPF Commands\obj\Debug\MainWindow.g.cs
+C:\Users\colin\Desktop\WPF Commands\WPF Commands\obj\Debug\App.g.cs
+C:\Users\colin\Desktop\WPF Commands\WPF Commands\obj\Debug\WPF Commands_MarkupCompile.cache
+C:\Users\colin\Desktop\WPF Commands\WPF Commands\obj\Debug\WPF Commands_MarkupCompile.lref
+C:\Users\colin\Desktop\WPF Commands\WPF Commands\obj\Debug\MainWindow.baml
+C:\Users\colin\Desktop\WPF Commands\WPF Commands\obj\Debug\WPF Commands.g.resources
+C:\Users\colin\Desktop\WPF Commands\WPF Commands\obj\Debug\WPF_Commands.Properties.Resources.resources
+C:\Users\colin\Desktop\WPF Commands\WPF Commands\obj\Debug\WPF Commands.csproj.GenerateResource.Cache
+C:\Users\colin\Desktop\WPF Commands\WPF Commands\obj\Debug\WPF Commands.exe
+C:\Users\colin\Desktop\WPF Commands\WPF Commands\obj\Debug\WPF Commands.pdb

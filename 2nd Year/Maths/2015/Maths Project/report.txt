@@ -1,0 +1,26 @@
+Q1 (i)
+		Input > 30           | Output > 30 is not a prime number.
+		Input > 31  	     | Output > 31 is not a prime number.
+		Input > 487          | Output > 487 is a prime number.
+		Input > 8893 	     | Output > 8893 is a prime number.
+		Input > 987654323 	 | Output > 987654323 is a prime number.
+		Input > 131317171919 | Output > 131317171919 is not a prime number.
+		
+(ii)	
+5,000
+	
+(iii)		
+1.2 seconds		
+		
+Q2	(i)		
+		Input > 30           | Output > The Prime Factors of 30 are [ 2 3 5 ]
+		Input > 31  	     | Output > The Prime Factors of 31 are [ 31 ]
+		Input > 487          | Output > The Prime Factors of 487 are [ 487 ]
+		Input > 8893 	     | Output > The Prime Factors of 8898 are [ 2 3 1483 ]
+		Input > 987654323 	 | Output > The Prime Factors of 987654323 are [  ]
+		Input > 131317171919 | Output > The Prime Factors of 131317171919 are [ 19 19 101 3601579 ]
+		
+Q3  (i) Input > 525 223      				 | Output > The Greatest Common Divisor of 525 and 223 is 1
+		Input > 12364 9867    				 | Output > The Greatest Common Divisor of 12364 and 9867 is 113423
+		Input > 1234567890, 0987654321       | Output > The Greatest Common Divisor of 1234567890 and 0987654321 is 9
+		Input > 13131717191919, 191917171313 | Output > The Greatest Common Divisor of 13131717191919 and 191917171313 is 1

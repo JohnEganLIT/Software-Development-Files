@@ -1,0 +1,10 @@
+﻿<Application x:Class="WPF_Global_Exception_Handling.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WPF_Global_Exception_Handling"
+             DispatcherUnhandledException="Application_DispatcherUnhandledException"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

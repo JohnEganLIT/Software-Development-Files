@@ -1,0 +1,6 @@
+C:\Users\colin\Desktop\DateAndTime\bin\Debug\DateAndTime.exe.config
+C:\Users\colin\Desktop\DateAndTime\bin\Debug\DateAndTime.exe
+C:\Users\colin\Desktop\DateAndTime\bin\Debug\DateAndTime.pdb
+C:\Users\colin\Desktop\DateAndTime\obj\Debug\DateAndTime.csprojResolveAssemblyReference.cache
+C:\Users\colin\Desktop\DateAndTime\obj\Debug\DateAndTime.exe
+C:\Users\colin\Desktop\DateAndTime\obj\Debug\DateAndTime.pdb

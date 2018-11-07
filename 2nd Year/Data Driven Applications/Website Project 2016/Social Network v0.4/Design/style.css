@@ -1,0 +1,237 @@
+/* <---------------> */
+/* <--- General ---> */ 
+/* <---------------> */
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+
+html{
+	height: 100%;
+}
+
+body{
+	height: 100%;
+	background: #EEEEEE;
+	font-family: "palatino linotype", arial;
+	overflow-y: scroll;     /* Keeps scrollbar on screen at all time */
+	font-size: 62.5%;     /* Sets a standard font size for entire website */
+}
+
+h1{
+	font-size: 3em;
+}
+
+h2{
+	font-size: 2.2em;
+}
+
+.container{     /* Keeps header and footer content in centre of page */
+	width: 1200px; 
+	margin: auto;
+}
+
+.row{
+	width: 100%;
+}
+
+
+/* <------------------> */
+/* <----- Header -----> */
+/* <------------------> */
+header{
+	height: 50px;
+	min-width: 1200px;
+	background: #2B4A6F;
+}
+
+#logo{
+	float: left;
+	margin: 5px 150px 0px 15px;
+	font-size: 3em;
+	color: white;
+}
+
+#logo:hover{
+	transform: scale(1.01);
+}
+
+#search{
+	float: left;
+	height: 35px;
+	width: 500px;
+	margin-top: 7px;
+}
+
+#searchBox{
+	float: left;
+	height: 100%;
+	width: 300px;
+	margin-right: 1px;
+	font-size: 1.7em;
+	border-style: none;
+}
+
+#searchBtn{
+	float: left;
+	height: 100%;
+	width: 80px;
+	border-style: none;
+	font-size: 1.6em;
+	background: #748BA7;
+	color: white;		
+}
+
+#searchBtn:hover{
+	cursor: pointer;
+	transform: scale(1.03);
+}
+
+
+/* <------------------------> */
+/* <----- Main Content -----> */
+/* <------------------------> */
+#main{
+	background: white;
+	width: 1200px;
+	margin: auto;
+	min-height: calc(100% - 80px);
+}
+
+/* <--- Register Form --->*/
+#regForm{
+	float: left;
+	margin: 75px 150px 0px 225px;
+	background: lightgrey;
+	padding: 5px 20px;
+	box-shadow: 1px 1px 5px #888888;
+}
+
+#regForm h2{
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+#regForm input{
+	height: 30px;
+	font-size: 1.3em;
+	padding: 5px;
+	margin: 5px;
+}
+
+#regForm #firstName, #lastName{
+	width: 112px;
+}
+
+#regForm #email1, #email2, #pass1, #pass2{
+	width: 250px;
+}
+
+#regForm #birthDropList{
+	margin-left: 5px;
+}
+
+#regForm #birthDropList select{
+	width: 85px;
+}
+
+#regForm #genderBtn{
+	margin: 5px 0px 0px 6px;
+}
+
+#regForm #genderBtn label{
+	vertical-align: middle;
+	font-size: 1.2em;
+}
+
+#regForm #genderBtn input{
+	margin-top: 10px;
+	vertical-align: middle;
+}
+
+#regForm #regBtn{
+	margin: 10px 35px;
+	height: 35px;
+	width: 200px;
+	border-style: none;
+	background: #748BA7;
+	color: white;
+	font-size: 1.1em;
+	box-shadow: 1px 1px 1px #888888;
+}
+
+#regBtn:hover{
+	cursor: pointer;
+	transform: scale(1.02);
+}
+
+/* <--- Login Form --->*/
+#loginForm{
+	float: left;
+	margin-top: 75px;
+	background: lightgrey;
+	padding: 10px 15px;
+	box-shadow: 1px 1px 5px #888888;
+}
+
+#loginForm h2{
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+#loginForm input{
+	height: 30px;
+	width: 250px;
+	font-size: 1.3m;
+	padding: 5px;
+	margin: 5px;
+}
+
+#loginForm #loginBtn{
+	margin: 10px 35px;
+	height: 35px;
+	width: 200px;
+	border-style: none;
+	background: #748BA7;
+	color: white;
+	font-size: 1.1em;
+	box-shadow: 1px 1px 1px #888888;
+}
+
+#loginBtn:hover{
+	cursor: pointer;
+	transform: scale(1.02);
+}
+
+/* <--- Status ---> */
+#status{
+	float: left;
+	width: 100%;
+	margin-top: 75px;
+	clear: both;	
+	text-align: center;
+}
+
+.statusGood{ 
+	color: green;
+	font-size: 3em;
+	text-align: center;
+}
+
+.statusBad{ 
+	color: red;
+	font-size: 3em;
+	text-align: center;
+}
+
+
+/* <------------------> */
+/* <----- Footer -----> */
+/* <------------------> */
+footer{
+	color: white;
+	background: #2B4A6F;
+	min-width: 1200px;
+	min-height: 30px;
+}

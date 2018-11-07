@@ -1,0 +1,13 @@
+C:\Users\colin\Desktop\WPF Text Blocks\WPF Text Blocks\bin\Debug\WPF Text Blocks.exe.config
+C:\Users\colin\Desktop\WPF Text Blocks\WPF Text Blocks\bin\Debug\WPF Text Blocks.exe
+C:\Users\colin\Desktop\WPF Text Blocks\WPF Text Blocks\bin\Debug\WPF Text Blocks.pdb
+C:\Users\colin\Desktop\WPF Text Blocks\WPF Text Blocks\obj\Debug\MainWindow.g.cs
+C:\Users\colin\Desktop\WPF Text Blocks\WPF Text Blocks\obj\Debug\App.g.cs
+C:\Users\colin\Desktop\WPF Text Blocks\WPF Text Blocks\obj\Debug\WPF Text Blocks_MarkupCompile.cache
+C:\Users\colin\Desktop\WPF Text Blocks\WPF Text Blocks\obj\Debug\WPF Text Blocks_MarkupCompile.lref
+C:\Users\colin\Desktop\WPF Text Blocks\WPF Text Blocks\obj\Debug\MainWindow.baml
+C:\Users\colin\Desktop\WPF Text Blocks\WPF Text Blocks\obj\Debug\WPF Text Blocks.g.resources
+C:\Users\colin\Desktop\WPF Text Blocks\WPF Text Blocks\obj\Debug\WPF_Text_Blocks.Properties.Resources.resources
+C:\Users\colin\Desktop\WPF Text Blocks\WPF Text Blocks\obj\Debug\WPF Text Blocks.csproj.GenerateResource.Cache
+C:\Users\colin\Desktop\WPF Text Blocks\WPF Text Blocks\obj\Debug\WPF Text Blocks.exe
+C:\Users\colin\Desktop\WPF Text Blocks\WPF Text Blocks\obj\Debug\WPF Text Blocks.pdb

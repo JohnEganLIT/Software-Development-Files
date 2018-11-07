@@ -1,0 +1,27 @@
+C:\Users\colin\Desktop\WPF Data Binding\WPF Data Binding\bin\Debug\WPF Data Binding.exe.config
+C:\Users\colin\Desktop\WPF Data Binding\WPF Data Binding\bin\Debug\WPF Data Binding.exe
+C:\Users\colin\Desktop\WPF Data Binding\WPF Data Binding\bin\Debug\WPF Data Binding.pdb
+C:\Users\colin\Desktop\WPF Data Binding\WPF Data Binding\obj\Debug\MainWindow.g.cs
+C:\Users\colin\Desktop\WPF Data Binding\WPF Data Binding\obj\Debug\App.g.cs
+C:\Users\colin\Desktop\WPF Data Binding\WPF Data Binding\obj\Debug\WPF Data Binding_MarkupCompile.cache
+C:\Users\colin\Desktop\WPF Data Binding\WPF Data Binding\obj\Debug\WPF Data Binding_MarkupCompile.lref
+C:\Users\colin\Desktop\WPF Data Binding\WPF Data Binding\obj\Debug\MainWindow.baml
+C:\Users\colin\Desktop\WPF Data Binding\WPF Data Binding\obj\Debug\WPF Data Binding.g.resources
+C:\Users\colin\Desktop\WPF Data Binding\WPF Data Binding\obj\Debug\WPF_Data_Binding.Properties.Resources.resources
+C:\Users\colin\Desktop\WPF Data Binding\WPF Data Binding\obj\Debug\WPF Basic Data Binding.csproj.GenerateResource.Cache
+C:\Users\colin\Desktop\WPF Data Binding\WPF Data Binding\obj\Debug\WPF Data Binding.exe
+C:\Users\colin\Desktop\WPF Data Binding\WPF Data Binding\obj\Debug\WPF Data Binding.pdb
+D:\Google Drive\College\Programming\C# Examples\WPF\WPF Data Binding\WPF Basic Data Binding\bin\Debug\WPF Basic Data Binding.exe.config
+D:\Google Drive\College\Programming\C# Examples\WPF\WPF Data Binding\WPF Basic Data Binding\bin\Debug\WPF Basic Data Binding.exe
+D:\Google Drive\College\Programming\C# Examples\WPF\WPF Data Binding\WPF Basic Data Binding\bin\Debug\WPF Basic Data Binding.pdb
+D:\Google Drive\College\Programming\C# Examples\WPF\WPF Data Binding\WPF Basic Data Binding\obj\Debug\WPF Basic Data Binding.csprojResolveAssemblyReference.cache
+D:\Google Drive\College\Programming\C# Examples\WPF\WPF Data Binding\WPF Basic Data Binding\obj\Debug\MainWindow.g.cs
+D:\Google Drive\College\Programming\C# Examples\WPF\WPF Data Binding\WPF Basic Data Binding\obj\Debug\App.g.cs
+D:\Google Drive\College\Programming\C# Examples\WPF\WPF Data Binding\WPF Basic Data Binding\obj\Debug\WPF Basic Data Binding_MarkupCompile.cache
+D:\Google Drive\College\Programming\C# Examples\WPF\WPF Data Binding\WPF Basic Data Binding\obj\Debug\WPF Basic Data Binding_MarkupCompile.lref
+D:\Google Drive\College\Programming\C# Examples\WPF\WPF Data Binding\WPF Basic Data Binding\obj\Debug\MainWindow.baml
+D:\Google Drive\College\Programming\C# Examples\WPF\WPF Data Binding\WPF Basic Data Binding\obj\Debug\WPF Basic Data Binding.g.resources
+D:\Google Drive\College\Programming\C# Examples\WPF\WPF Data Binding\WPF Basic Data Binding\obj\Debug\WPF_Basic_Data_Binding.Properties.Resources.resources
+D:\Google Drive\College\Programming\C# Examples\WPF\WPF Data Binding\WPF Basic Data Binding\obj\Debug\WPF Basic Data Binding.csproj.GenerateResource.Cache
+D:\Google Drive\College\Programming\C# Examples\WPF\WPF Data Binding\WPF Basic Data Binding\obj\Debug\WPF Basic Data Binding.exe
+D:\Google Drive\College\Programming\C# Examples\WPF\WPF Data Binding\WPF Basic Data Binding\obj\Debug\WPF Basic Data Binding.pdb

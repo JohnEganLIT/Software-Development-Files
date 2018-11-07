@@ -1,0 +1,169 @@
+* {
+	margin: 0;
+	padding: 0;	
+	text-decoration: none;
+}
+
+.container{ /* Keeps content in centre */
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.button{ /* Class for all buttons */
+	border-style: none;
+	color: white;
+	background-color: #748BA7;
+	text-align: center;
+	display: inline-block;
+}
+
+body{
+	font-family: palatino linotype, arial;
+	line-height: 2em;
+	background-color: #ebebeb;
+	overflow-y: scroll;
+}
+
+#header{
+	background-color: #2B4A6F;
+	height: 50px;
+}
+
+#logo{
+	font-size: 32px; 
+	color: white;
+	margin-top: 6px;
+	margin-right: 120px;
+	float: left;
+}
+
+#searchBox{
+	width: 350px;
+	height: 35px;
+	font-size: 20px;
+	border-style: none;
+	margin-top: 8px;
+	margin-right: 5px;
+	float: left;
+}
+
+#searchBtn {
+	height: 35px;
+	font-size: 18px;
+	width: 100px;
+	margin-top: 8px;
+	margin-right: 10px;
+	float: left;
+}
+
+#searchBtn:hover{
+	cursor: pointer;
+}
+
+.headerBtn{
+	width: 80px;
+	float: right;
+	margin-left: 10px;
+	margin-top: 9px;
+}
+
+#toggleBtn{
+	float: left;
+	margin-top: 17px;
+}
+
+#toggleBtn a{
+	color: lightgrey;
+	font-size: 15px;
+	background-color: #748BA7;
+	padding: 1px;
+}
+
+#categories {
+	margin-left: 170px;
+	display: none;
+}
+
+#categories a{
+	width: 125px;
+}
+
+.main{
+	padding: 20px;
+	text-align: center;
+	background-color: white;
+	min-height: 86.4%; /*Keeps footer at bottom of page*/
+	overflow: hidden;
+}
+
+.productRow{
+	margin-left: 25px;
+	margin-bottom: 5px;
+}
+
+.product{
+	margin-left: 25px;
+	float: left;
+}
+
+.price{
+	margin-top: -5px;
+}
+
+.productName{
+	margin-top: -10px;
+}
+
+.buyButton{
+	width: 50px;
+}
+
+.container input{
+	width: 100%;
+}
+
+#form{
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+	font-size: 20px;
+}
+
+#form input{
+	height: 35px;
+	font-size: 20px;
+}
+
+#form legend{
+	padding: 5px;
+	font-size: 40px;
+	margin-bottom: 10px;
+}
+
+.status{
+	background-color: #FFFFCC;
+	margin-top: 5px;
+}
+
+#formBtn{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	height: 40px;
+	width: 100px;
+	border-style: none;	
+}
+
+#formBtn:hover{
+	cursor: pointer;
+}
+
+#footer{
+	background-color: #2B4A6F;
+	color: white;
+	bottom:0;
+	height:20px;	
+	padding: 12px;
+}
+
+
+

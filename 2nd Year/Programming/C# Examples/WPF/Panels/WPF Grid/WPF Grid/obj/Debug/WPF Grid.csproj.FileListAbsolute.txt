@@ -1,0 +1,18 @@
+C:\Users\colin\Desktop\WPF Grid\WPF Grid\bin\Debug\WPF Grid.exe.config
+C:\Users\colin\Desktop\WPF Grid\WPF Grid\bin\Debug\WPF Grid.exe
+C:\Users\colin\Desktop\WPF Grid\WPF Grid\bin\Debug\WPF Grid.pdb
+C:\Users\colin\Desktop\WPF Grid\WPF Grid\obj\Debug\WPF Grid.csprojResolveAssemblyReference.cache
+C:\Users\colin\Desktop\WPF Grid\WPF Grid\obj\Debug\MainWindow.g.cs
+C:\Users\colin\Desktop\WPF Grid\WPF Grid\obj\Debug\App.g.cs
+C:\Users\colin\Desktop\WPF Grid\WPF Grid\obj\Debug\WPF Grid_MarkupCompile.cache
+C:\Users\colin\Desktop\WPF Grid\WPF Grid\obj\Debug\WPF Grid_MarkupCompile.lref
+C:\Users\colin\Desktop\WPF Grid\WPF Grid\obj\Debug\MainWindow.baml
+C:\Users\colin\Desktop\WPF Grid\WPF Grid\obj\Debug\WPF Grid.g.resources
+C:\Users\colin\Desktop\WPF Grid\WPF Grid\obj\Debug\WPF_Grid.Properties.Resources.resources
+C:\Users\colin\Desktop\WPF Grid\WPF Grid\obj\Debug\WPF Grid.csproj.GenerateResource.Cache
+C:\Users\colin\Desktop\WPF Grid\WPF Grid\obj\Debug\WPF Grid.exe
+C:\Users\colin\Desktop\WPF Grid\WPF Grid\obj\Debug\WPF Grid.pdb
+C:\Users\colin\Desktop\WPF Grid\WPF Grid\obj\Debug\GridSplitter.g.cs
+C:\Users\colin\Desktop\WPF Grid\WPF Grid\obj\Debug\GridSplitter.baml
+C:\Users\colin\Desktop\WPF Grid\WPF Grid\obj\Debug\ContactForm.g.cs
+C:\Users\colin\Desktop\WPF Grid\WPF Grid\obj\Debug\ContactForm.baml

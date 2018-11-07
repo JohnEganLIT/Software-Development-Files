@@ -1,0 +1,243 @@
+/* <---------------> */
+/* <--- General ---> */ 
+/* <---------------> */
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+
+html{
+	height: 100%;
+}
+
+body{
+	height: 100%;
+	background: #EEEEEE;
+	font-family: "palatino linotype", arial;
+	overflow-y: scroll;     /* Keeps scrollbar on screen at all time */
+	font-size: 62.5%;     /* Sets a standard font size for entire website */
+}
+
+h1{
+	font-size: 3em;
+}
+
+h2{
+	font-size: 2.2em;
+}
+
+.rowContainer{     /* Keeps header and footer content in centre of page */
+	width: 1200px; 
+	display: block;
+	margin: auto;	
+	overflow: auto;
+}
+
+/* <------------------> */
+/* <----- Header -----> */
+/* <------------------> */
+header{
+	height: 50px;
+	min-width: 1200px;
+	background: #2B4A6F;
+}
+
+#logo{	
+	margin-left: 455px;
+	font-size: 3.8em;
+	color: white;
+}
+
+#logo:hover{
+	transform: scale(1.01);
+}
+
+
+#logoLoggedIn{
+	float: left;
+	margin: 2px 0px 0px 5px;
+	font-size: 3em;
+	color: white;
+}
+
+#logoLoggedIn:hover{
+	transform: scale(1.01);
+}
+
+
+#search{
+	float: left;
+	margin: 7px 0px 0px 150px;
+	height: 34px;
+}
+
+#searchBox{
+	width: 300px;
+	height: 100%;
+	font-size: 1.7em;
+	border-style: none;
+}
+
+#searchBtn{
+	width: 80px;
+	height: 100%;
+	border-style: none;
+	font-size: 1.6em;
+	background: #748BA7;
+	color: white;	
+}
+
+#searchBtn:hover{
+	cursor: pointer;
+	transform: scale(1.03);
+}
+
+#logoutBtn{
+	float: right;
+	margin: 10px 10px 0px 0px;
+	color: white;
+	font-size: 1.8em;
+}
+
+/* <------------------------> */
+/* <----- Main Content -----> */
+/* <------------------------> */
+main{
+	width: 1200px;
+	margin: auto;
+	min-height: calc(100% - 80px);
+    background: white;
+}
+
+/* <--- Register Form --->*/
+#regForm{
+	float: left;
+	margin: 85px 0px 0px 250px;
+	width: 274px;
+	padding: 5px 10px;
+	background: lightgrey;
+	box-shadow: 1px 1px 5px #888888;
+}
+
+#regForm h2{
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+#regForm input{
+	height: 30px;
+	font-size: 1.3em;
+	padding: 5px;
+	margin: 5px;
+}
+
+#regForm #firstName, #lastName{
+	width: 112px;
+}
+
+#regForm #email1, #email2, #pass1, #pass2{
+	width: 250px;
+}
+
+#regForm #birthday{
+	margin-left: 5px;	
+}
+
+#regForm #birthday label{
+	margin-right: 120px;
+	font-size: 1.3em;
+}
+
+#regForm #birthday select{
+	padding: 2px 5px;
+	width: 86px;
+}
+
+#regForm #genderBtns{
+	margin: 10px 0px 0px 6px;
+}
+
+#regForm #genderBtns label{
+	font-size: 1.5em;
+	vertical-align: middle;
+}
+
+#regForm #genderBtns input{
+	vertical-align: middle;
+	margin: 0px 10px 0px 2px;
+}
+
+#regForm #regBtn{
+	margin: 10px 35px;
+	height: 35px;
+	width: 200px;
+	border-style: none;
+	background: #748BA7;
+	color: white;
+	font-size: 1.1em;
+	box-shadow: 1px 1px 1px #888888;
+}
+
+#regBtn:hover{
+	cursor: pointer;
+	transform: scale(1.02);
+}
+
+/* <--- Login Form --->*/
+#loginForm{
+	float: left;
+	margin: 85px 0px 0px 50px;
+	width: 225px;
+	background: lightgrey;
+	padding: 10px 15px;
+	box-shadow: 1px 1px 5px #888888;
+}
+
+#loginForm h2{
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+#loginForm input{
+	height: 30px;
+	width: 200px;
+	font-size: 1.3m;
+	padding: 5px;
+	margin: 5px;
+}
+
+#loginForm #loginBtn{
+	margin: 10px 30px;
+	height: 35px;
+	width: 160px;
+	border-style: none;
+	background: #748BA7;
+	color: white;
+	font-size: 1.1em;
+	box-shadow: 1px 1px 1px #888888;
+}
+
+.statusGood{ 
+	margin: 25px;
+	color: green;
+	font-size: 2em;
+	text-align: center;
+}
+
+.statusBad{ 
+	margin: 25px;
+	color: red;
+	font-size: 2em;
+	text-align: center;
+}
+
+/* <------------------> */
+/* <----- Footer -----> */
+/* <------------------> */
+footer{
+	color: white;
+	background: #2B4A6F;
+	min-width: 1200px;
+	min-height: 30px;
+}

@@ -1,0 +1,14 @@
+C:\Users\colin\Desktop\WPF CheckBox\WPF CheckBox\bin\Debug\WPF CheckBox.exe.config
+C:\Users\colin\Desktop\WPF CheckBox\WPF CheckBox\bin\Debug\WPF CheckBox.exe
+C:\Users\colin\Desktop\WPF CheckBox\WPF CheckBox\bin\Debug\WPF CheckBox.pdb
+C:\Users\colin\Desktop\WPF CheckBox\WPF CheckBox\obj\Debug\WPF CheckBox.csprojResolveAssemblyReference.cache
+C:\Users\colin\Desktop\WPF CheckBox\WPF CheckBox\obj\Debug\MainWindow.g.cs
+C:\Users\colin\Desktop\WPF CheckBox\WPF CheckBox\obj\Debug\App.g.cs
+C:\Users\colin\Desktop\WPF CheckBox\WPF CheckBox\obj\Debug\WPF CheckBox_MarkupCompile.cache
+C:\Users\colin\Desktop\WPF CheckBox\WPF CheckBox\obj\Debug\WPF CheckBox_MarkupCompile.lref
+C:\Users\colin\Desktop\WPF CheckBox\WPF CheckBox\obj\Debug\MainWindow.baml
+C:\Users\colin\Desktop\WPF CheckBox\WPF CheckBox\obj\Debug\WPF CheckBox.g.resources
+C:\Users\colin\Desktop\WPF CheckBox\WPF CheckBox\obj\Debug\WPF_CheckBox.Properties.Resources.resources
+C:\Users\colin\Desktop\WPF CheckBox\WPF CheckBox\obj\Debug\WPF CheckBox.csproj.GenerateResource.Cache
+C:\Users\colin\Desktop\WPF CheckBox\WPF CheckBox\obj\Debug\WPF CheckBox.exe
+C:\Users\colin\Desktop\WPF CheckBox\WPF CheckBox\obj\Debug\WPF CheckBox.pdb

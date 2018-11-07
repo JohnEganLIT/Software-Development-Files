@@ -1,0 +1,99 @@
+C:\Users\colin\Desktop\Limerick Game Library\bin\Debug\Limerick Game Library.exe.config
+C:\Users\colin\Desktop\Limerick Game Library\obj\Debug\Limerick Game Library.csprojResolveAssemblyReference.cache
+C:\Users\colin\Desktop\Limerick Game Library\obj\Debug\Limerick_Game_Library.Properties.Resources.resources
+C:\Users\colin\Desktop\Limerick Game Library\obj\Debug\Limerick Game Library.csproj.GenerateResource.Cache
+C:\Users\colin\Desktop\Limerick Game Library\obj\Debug\Limerick_Game_Library.LoginForm.resources
+C:\Users\colin\Desktop\Limerick Game Library\bin\Debug\Limerick Game Library.exe
+C:\Users\colin\Desktop\Limerick Game Library\bin\Debug\Limerick Game Library.pdb
+C:\Users\colin\Desktop\Limerick Game Library\obj\Debug\Limerick Game Library.exe
+C:\Users\colin\Desktop\Limerick Game Library\obj\Debug\Limerick Game Library.pdb
+C:\Users\Colin Maher\Google Drive\College\Programming\Limerick Game Library\bin\Debug\Limerick Game Library.exe.config
+C:\Users\Colin Maher\Google Drive\College\Programming\Limerick Game Library\obj\Debug\Limerick Game Library.exe
+C:\Users\Colin Maher\Google Drive\College\Programming\Limerick Game Library\obj\Debug\Limerick Game Library.pdb
+C:\Users\Colin Maher\Google Drive\College\Programming\Limerick Game Library\bin\Debug\Limerick Game Library.exe
+C:\Users\Colin Maher\Google Drive\College\Programming\Limerick Game Library\bin\Debug\Limerick Game Library.pdb
+C:\Users\Colin Maher\Google Drive\College\Programming\Limerick Game Library\obj\Debug\Limerick Game Library.csprojResolveAssemblyReference.cache
+C:\Users\Colin Maher\Google Drive\College\Programming\Limerick Game Library\obj\Debug\Limerick_Game_Library.LoginForm.resources
+C:\Users\Colin Maher\Google Drive\College\Programming\Limerick Game Library\obj\Debug\Limerick_Game_Library.Properties.Resources.resources
+C:\Users\Colin Maher\Google Drive\College\Programming\Limerick Game Library\obj\Debug\Limerick Game Library.csproj.GenerateResource.Cache
+C:\Users\colin\Google Drive\College\Programming\2nd Year Project 2016\Limerick Game Library\bin\Debug\Limerick Game Library.exe.config
+C:\Users\colin\Google Drive\College\Programming\2nd Year Project 2016\Limerick Game Library\obj\Debug\Limerick Game Library.exe
+C:\Users\colin\Google Drive\College\Programming\2nd Year Project 2016\Limerick Game Library\obj\Debug\Limerick Game Library.pdb
+C:\Users\colin\Google Drive\College\Programming\2nd Year Project 2016\Limerick Game Library\bin\Debug\Limerick Game Library.exe
+C:\Users\colin\Google Drive\College\Programming\2nd Year Project 2016\Limerick Game Library\bin\Debug\Limerick Game Library.pdb
+C:\Users\colin\Google Drive\College\Programming\2nd Year Project 2016\Limerick Game Library\obj\Debug\Limerick Game Library.csprojResolveAssemblyReference.cache
+C:\Users\colin\Google Drive\College\Programming\2nd Year Project 2016\Limerick Game Library\obj\Debug\Limerick_Game_Library.loginForm.resources
+C:\Users\colin\Google Drive\College\Programming\2nd Year Project 2016\Limerick Game Library\obj\Debug\Limerick_Game_Library.Properties.Resources.resources
+C:\Users\colin\Google Drive\College\Programming\2nd Year Project 2016\Limerick Game Library\obj\Debug\Limerick Game Library.csproj.GenerateResource.Cache
+C:\Users\Colin Maher\Google Drive\College\Programming\2nd Year Project 2016\Limerick Game Library\bin\Debug\Limerick Game Library.exe.config
+C:\Users\Colin Maher\Google Drive\College\Programming\2nd Year Project 2016\Limerick Game Library\obj\Debug\Limerick Game Library.exe
+C:\Users\Colin Maher\Google Drive\College\Programming\2nd Year Project 2016\Limerick Game Library\obj\Debug\Limerick Game Library.pdb
+C:\Users\Colin Maher\Google Drive\College\Programming\2nd Year Project 2016\Limerick Game Library\bin\Debug\Limerick Game Library.exe
+C:\Users\Colin Maher\Google Drive\College\Programming\2nd Year Project 2016\Limerick Game Library\bin\Debug\Limerick Game Library.pdb
+C:\Users\Colin Maher\Google Drive\College\Programming\2nd Year Project 2016\Limerick Game Library\obj\Debug\Limerick Game Library.csprojResolveAssemblyReference.cache
+C:\Users\Colin Maher\Google Drive\College\Programming\2nd Year Project 2016\Limerick Game Library\obj\Debug\Limerick_Game_Library.loginForm.resources
+C:\Users\Colin Maher\Google Drive\College\Programming\2nd Year Project 2016\Limerick Game Library\obj\Debug\Limerick_Game_Library.Properties.Resources.resources
+C:\Users\Colin Maher\Google Drive\College\Programming\2nd Year Project 2016\Limerick Game Library\obj\Debug\Limerick Game Library.csproj.GenerateResource.Cache
+C:\Users\colin\Google Drive\College\Programming\2nd Year Project 2016\Limerick Game Library\bin\Debug\login.txt
+C:\Users\colin\Google Drive\College\Programming\2nd Year Project 2016\Limerick Game Library\obj\Debug\Limerick_Game_Library.mainFormEmployee.resources
+C:\Users\colin\Google Drive\College\Programming\2nd Year Project 2016\Limerick Game Library\obj\Debug\Limerick_Game_Library.mainFormManager.resources
+C:\Users\colin\Desktop\Limerick Game Library\obj\Debug\Limerick_Game_Library.mainFormEmployee.resources
+C:\Users\Colin Maher\Google Drive\College\Programming\2nd Year Project 2016\Limerick Game Library\obj\Debug\Limerick_Game_Library.mainFormEmployee.resources
+C:\Users\colin\Desktop\Limerick Game Library\bin\Debug\employees.txt
+C:\Users\colin\Desktop\Limerick Game Library\obj\Debug\Limerick_Game_Library.mainForm.resources
+C:\Users\Colin Maher\Google Drive\College\Programming\2nd Year Project 2016\Limerick Game Library\bin\Debug\employees.txt
+C:\Users\Colin Maher\Google Drive\College\Programming\2nd Year Project 2016\Limerick Game Library\obj\Debug\Limerick_Game_Library.mainForm.resources
+C:\Users\Colin Maher\Desktop\Limerick Game Library\bin\Debug\employees.txt
+C:\Users\Colin Maher\Desktop\Limerick Game Library\bin\Debug\Limerick Game Library.exe.config
+C:\Users\Colin Maher\Desktop\Limerick Game Library\bin\Debug\Limerick Game Library.exe
+C:\Users\Colin Maher\Desktop\Limerick Game Library\bin\Debug\Limerick Game Library.pdb
+C:\Users\Colin Maher\Desktop\Limerick Game Library\obj\Debug\Limerick_Game_Library.loginForm.resources
+C:\Users\Colin Maher\Desktop\Limerick Game Library\obj\Debug\Limerick_Game_Library.mainForm.resources
+C:\Users\Colin Maher\Desktop\Limerick Game Library\obj\Debug\Limerick_Game_Library.Properties.Resources.resources
+C:\Users\Colin Maher\Desktop\Limerick Game Library\obj\Debug\Limerick Game Library.csproj.GenerateResource.Cache
+C:\Users\Colin Maher\Desktop\Limerick Game Library\obj\Debug\Limerick Game Library.exe
+C:\Users\Colin Maher\Desktop\Limerick Game Library\obj\Debug\Limerick Game Library.pdb
+C:\Users\Colin Maher\Desktop\Limerick Game Library\obj\Debug\Limerick Game Library.csprojResolveAssemblyReference.cache
+C:\Users\Colin Maher\Desktop\Limerick Game Library\bin\Debug\customers.txt
+C:\Users\Colin Maher\Desktop\Project\Project Files\bin\Debug\Limerick Game Library.exe.config
+C:\Users\Colin Maher\Desktop\Project\Project Files\obj\Debug\Limerick Game Library.exe
+C:\Users\Colin Maher\Desktop\Project\Project Files\obj\Debug\Limerick Game Library.pdb
+C:\Users\Colin Maher\Desktop\Project\Project Files\obj\Debug\Limerick Game Library.csprojResolveAssemblyReference.cache
+C:\Users\Colin Maher\Desktop\Project\Project Files\obj\Debug\Limerick_Game_Library.loginForm.resources
+C:\Users\Colin Maher\Desktop\Project\Project Files\obj\Debug\Limerick_Game_Library.mainForm.resources
+C:\Users\Colin Maher\Desktop\Project\Project Files\obj\Debug\Limerick_Game_Library.Properties.Resources.resources
+C:\Users\Colin Maher\Desktop\Project\Project Files\obj\Debug\Limerick Game Library.csproj.GenerateResource.Cache
+C:\Users\Colin Maher\Desktop\Project\Project Files\bin\Debug\customers.txt
+C:\Users\Colin Maher\Desktop\Project\Project Files\bin\Debug\employees.txt
+C:\Users\Colin Maher\Desktop\Project\Project Files\bin\Debug\Limerick Game Library.exe
+C:\Users\Colin Maher\Desktop\Project\Project Files\bin\Debug\Limerick Game Library.pdb
+C:\Users\Colin Maher\Google Drive\College\Programming\2nd Year Project 2016\Project k00186813\Project Files\bin\Debug\Limerick Game Library.exe.config
+C:\Users\Colin Maher\Google Drive\College\Programming\2nd Year Project 2016\Project k00186813\Project Files\obj\Debug\Limerick Game Library.exe
+C:\Users\Colin Maher\Google Drive\College\Programming\2nd Year Project 2016\Project k00186813\Project Files\obj\Debug\Limerick Game Library.pdb
+D:\Google Drive\College\Programming\2nd Year Project 2016\Project k00186813\Project Files\bin\Debug\Limerick Game Library.exe.config
+D:\Google Drive\College\Programming\2nd Year Project 2016\Project k00186813\Project Files\obj\Debug\Limerick Game Library.exe
+D:\Google Drive\College\Programming\2nd Year Project 2016\Project k00186813\Project Files\obj\Debug\Limerick Game Library.pdb
+D:\Google Drive\College\Programming\2nd Year Project 2016\Project k00186813\Project Files\bin\Debug\customers.txt
+D:\Google Drive\College\Programming\2nd Year Project 2016\Project k00186813\Project Files\bin\Debug\employees.txt
+D:\Google Drive\College\Programming\2nd Year Project 2016\Project k00186813\Project Files\bin\Debug\Limerick Game Library.exe
+D:\Google Drive\College\Programming\2nd Year Project 2016\Project k00186813\Project Files\bin\Debug\Limerick Game Library.pdb
+D:\Google Drive\College\Programming\2nd Year Project 2016\Project k00186813\Project Files\obj\Debug\Limerick Game Library.csprojResolveAssemblyReference.cache
+D:\Google Drive\College\Programming\2nd Year Project 2016\Project k00186813\Project Files\obj\Debug\Limerick_Game_Library.loginForm.resources
+D:\Google Drive\College\Programming\2nd Year Project 2016\Project k00186813\Project Files\obj\Debug\Limerick_Game_Library.mainForm.resources
+D:\Google Drive\College\Programming\2nd Year Project 2016\Project k00186813\Project Files\obj\Debug\Limerick_Game_Library.Properties.Resources.resources
+D:\Google Drive\College\Programming\2nd Year Project 2016\Project k00186813\Project Files\obj\Debug\Limerick Game Library.csproj.GenerateResource.Cache
+C:\Users\colin\Google Drive\College\2nd Year\Programming\2nd Year Project 2016\Project k00186813\Project Files\bin\Debug\Limerick Game Library.exe.config
+C:\Users\colin\Google Drive\College\2nd Year\Programming\2nd Year Project 2016\Project k00186813\Project Files\obj\Debug\Limerick Game Library.exe
+C:\Users\colin\Google Drive\College\2nd Year\Programming\2nd Year Project 2016\Project k00186813\Project Files\obj\Debug\Limerick Game Library.pdb
+D:\Google Drive\College\2nd Year\Programming\2nd Year Project 2016\Project k00186813\Project Files\bin\Debug\customers.txt
+D:\Google Drive\College\2nd Year\Programming\2nd Year Project 2016\Project k00186813\Project Files\bin\Debug\employees.txt
+D:\Google Drive\College\2nd Year\Programming\2nd Year Project 2016\Project k00186813\Project Files\bin\Debug\Limerick Game Library.exe.config
+D:\Google Drive\College\2nd Year\Programming\2nd Year Project 2016\Project k00186813\Project Files\bin\Debug\Limerick Game Library.exe
+D:\Google Drive\College\2nd Year\Programming\2nd Year Project 2016\Project k00186813\Project Files\bin\Debug\Limerick Game Library.pdb
+D:\Google Drive\College\2nd Year\Programming\2nd Year Project 2016\Project k00186813\Project Files\obj\Debug\Limerick Game Library.csprojResolveAssemblyReference.cache
+D:\Google Drive\College\2nd Year\Programming\2nd Year Project 2016\Project k00186813\Project Files\obj\Debug\Limerick_Game_Library.loginForm.resources
+D:\Google Drive\College\2nd Year\Programming\2nd Year Project 2016\Project k00186813\Project Files\obj\Debug\Limerick_Game_Library.mainForm.resources
+D:\Google Drive\College\2nd Year\Programming\2nd Year Project 2016\Project k00186813\Project Files\obj\Debug\Limerick_Game_Library.Properties.Resources.resources
+D:\Google Drive\College\2nd Year\Programming\2nd Year Project 2016\Project k00186813\Project Files\obj\Debug\Limerick Game Library.csproj.GenerateResource.Cache
+D:\Google Drive\College\2nd Year\Programming\2nd Year Project 2016\Project k00186813\Project Files\obj\Debug\Limerick Game Library.exe
+D:\Google Drive\College\2nd Year\Programming\2nd Year Project 2016\Project k00186813\Project Files\obj\Debug\Limerick Game Library.pdb

@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  Test.cpp
+c:\users\colin maher\desktop\class constructor inheritance\test\test.cpp(10): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\colin maher\desktop\class constructor inheritance\test\test.cpp(14): warning C4305: 'argument': truncation from 'double' to 'float'
+  Dog.cpp
+  Animal.cpp
+  Generating Code...
+  Test.vcxproj -> C:\Users\Colin Maher\Desktop\Class Constructor Inheritance\Debug\Constructor Inheritance.exe

@@ -1,0 +1,157 @@
+* {
+	margin: 0;
+	padding: 0;	
+}
+
+.container{
+	width: 1200px;
+	height: auto;
+	margin: 0 auto;
+}
+
+body{
+	font-family: palatino linotype;
+	line-height: 2em;
+}
+
+#header{
+	height: 45px; 
+	width: 100%;
+	color: #8E0000;
+}
+
+#logo{
+	float: left;
+	font-size: 200%; 
+	margin-top: 5px;
+	margin-left: 10px;
+	margin-right: 120px;
+}
+
+#logo img{
+	height: 45px;
+	width: 250px;
+	margin-top: -5px;
+}
+
+#searchBox input{
+	width: 350px;
+	height: 35px;
+	margin-top: 5px;
+	margin-right: 5px;
+	text-align: left;
+	font-size: 20px;
+	float: left;
+}
+
+#searchButton input{
+	background-color: #CCCCCC;
+	margin-top: 5px;
+	width: 100px;
+	height: 35px;
+	color: white;
+	border-style: none;
+	font-size: 100%;
+	float: left;
+}
+
+#searchButton input:hover{
+	cursor: pointer;
+}
+
+#nav{
+	list-style: none;
+	float: right;
+	margin-top: 6px;
+}
+
+#nav a{
+	text-decoration: none;
+	list-style: none;
+	color: #999999;
+	font-size: 20px;
+}
+
+#nav li{
+	height: 33px;
+	width: 80px;
+	float: right;
+	margin-left: 15px;
+	text-align: center;
+}
+
+#nav li:hover{
+	cursor: pointer;
+}
+
+#categories {
+	margin-top: 5px;
+	margin-bottom: 20px;
+	margin-left: 70px;
+}
+
+#categories a{
+	color: #FFFFFF;
+	text-align: center;	
+	text-decoration: none;
+}
+
+#categories li{
+	padding-top: 8px;
+	padding-bottom: 8px;
+	width: 125px;
+	margin-left: 15px;
+	background-color: #6699FF;
+	text-align: center;
+	float: left;
+}
+
+#categories li:hover{
+	cursor: pointer;
+} 
+
+.main{
+	padding: 20px;
+	text-align: center;
+	background-color: white;
+	clear: both;
+	min-height: 82.9%; /*Keeps footer at bottom of page*/
+	overflow: hidden;
+}
+
+.productRow{
+	margin-left: 25px;
+	margin-bottom: 5px;
+}
+
+.product{
+	margin-left: 25px;
+	float: left;
+}
+
+.product img{
+	width: 352px;
+}
+
+.price{
+	margin-top: -5px;
+}
+
+.productName{
+	margin-top: -10px;
+}
+
+.buyButton{
+	width: 50px;
+}
+
+#footer{
+	background-color: #2B4A6F;
+	color: white;
+	bottom:0;
+	height:20px;	
+	padding: 12px;
+}
+
+
+

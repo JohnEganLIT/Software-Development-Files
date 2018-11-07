@@ -1,0 +1,14 @@
+C:\Users\colin\Desktop\WPF Labels\WPF Labels\bin\Debug\WPF Labels.exe.config
+C:\Users\colin\Desktop\WPF Labels\WPF Labels\bin\Debug\WPF Labels.exe
+C:\Users\colin\Desktop\WPF Labels\WPF Labels\bin\Debug\WPF Labels.pdb
+C:\Users\colin\Desktop\WPF Labels\WPF Labels\obj\Debug\WPF Labels.csprojResolveAssemblyReference.cache
+C:\Users\colin\Desktop\WPF Labels\WPF Labels\obj\Debug\MainWindow.g.cs
+C:\Users\colin\Desktop\WPF Labels\WPF Labels\obj\Debug\App.g.cs
+C:\Users\colin\Desktop\WPF Labels\WPF Labels\obj\Debug\WPF Labels_MarkupCompile.cache
+C:\Users\colin\Desktop\WPF Labels\WPF Labels\obj\Debug\WPF Labels_MarkupCompile.lref
+C:\Users\colin\Desktop\WPF Labels\WPF Labels\obj\Debug\MainWindow.baml
+C:\Users\colin\Desktop\WPF Labels\WPF Labels\obj\Debug\WPF Labels.g.resources
+C:\Users\colin\Desktop\WPF Labels\WPF Labels\obj\Debug\WPF_Labels.Properties.Resources.resources
+C:\Users\colin\Desktop\WPF Labels\WPF Labels\obj\Debug\WPF Labels.csproj.GenerateResource.Cache
+C:\Users\colin\Desktop\WPF Labels\WPF Labels\obj\Debug\WPF Labels.exe
+C:\Users\colin\Desktop\WPF Labels\WPF Labels\obj\Debug\WPF Labels.pdb
