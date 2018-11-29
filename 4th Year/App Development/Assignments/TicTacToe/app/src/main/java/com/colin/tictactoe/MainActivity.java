@@ -1,3 +1,12 @@
+/*
+Colin Maher
+k00186813
+Used this tutorial as a guide: https://www.youtube.com/watch?v=apDL78MFR3o
+
+ */
+
+
+
 package com.colin.tictactoe;
 
 import android.graphics.Color;
@@ -27,9 +36,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         statusTextView = findViewById(R.id.statusTxtView);
 
-        for (int row=0; row<3; row++)
+        for (int row = 0; row < 3; row++)
         {
-            for(int col=0; col<3; col++)
+            for (int col = 0; col < 3; col++)
             {
                 String buttonID = "button_" + row + col;
                 int resID = getResources().getIdentifier(buttonID, "id", getPackageName());
@@ -53,16 +62,16 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View v)
     {
         // Prevents further entries when game is over.
-        if(!gameOver)
+        if (!gameOver)
         {
             // Checks if clicked button contains an empty string.
-            if(!((Button) v).getText().toString().equals(""))
+            if (!((Button) v).getText().toString().equals(""))
             {
                 // Button has been used already. Returns without doing anything.
                 return;
             }
 
-            if(player1Turn)
+            if (player1Turn)
             {
                 ((Button) v).setText("X");
             }
@@ -74,9 +83,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
             roundCount++;
 
-            if(checkForWin())
+            if (checkForWin())
             {
-                if(player1Turn)
+                if (player1Turn)
                 {
                     player1Wins();
                     gameOver = true;
@@ -88,22 +97,21 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 }
             }
 
-            else if(roundCount == 9)
+            else if (roundCount == 9)
             {
                 draw();
                 gameOver = true;
             }
 
             else
-            {
+                {
                 // Switches turns. Sets player1Turn to its opposite.
                 player1Turn = !player1Turn;
 
-                if(player1Turn)
+                if (player1Turn)
                 {
                     statusTextView.setText("Player X's Turn");
                 }
-
                 else
                 {
                     statusTextView.setText("Player O's Turn");
@@ -116,43 +124,42 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     {
         String[][] field = new String[3][3];
 
-        for (int row=0; row<3; row++)
+        for (int row = 0; row < 3; row++)
         {
-            for(int col=0; col<3; col++)
+            for (int col = 0; col < 3; col++)
             {
                 field[row][col] = buttons[row][col].getText().toString();
             }
         }
 
         // Checks rows for win.
-        for(int row=0; row<3; row++)
+        for (int row = 0; row < 3; row++)
         {
             // Returns true if any row has matching non blank cells.
-            if(field[row][0].equals(field[row][1]) && field[row][0].equals(field[row][2]) && !field[row][0].equals(""))
+            if (field[row][0].equals(field[row][1]) && field[row][0].equals(field[row][2]) && !field[row][0].equals(""))
             {
                 return true;
             }
         }
 
         // Checks columns for win.
-        for(int col=0; col<3; col++)
+        for (int col = 0; col < 3; col++)
         {
             // Returns true if any column has matching non blank cells.
-            if(field[0][col].equals(field[1][col]) && field[0][col].equals(field[2][col]) && !field[0][col].equals(""))
+            if (field[0][col].equals(field[1][col]) && field[0][col].equals(field[2][col]) && !field[0][col].equals(""))
             {
-
                 return true;
             }
         }
 
         // Checks 1st diagonal for win.
-        if(field[0][0].equals(field[1][1]) && field[0][0].equals(field[2][2]) && !field[0][0].equals(""))
+        if (field[0][0].equals(field[1][1]) && field[0][0].equals(field[2][2]) && !field[0][0].equals(""))
         {
             return true;
         }
 
         // Checks 2nd diagonal for win.
-        if(field[0][2].equals(field[1][1]) && field[0][2].equals(field[2][0]) && !field[0][2].equals(""))
+        if (field[0][2].equals(field[1][1]) && field[0][2].equals(field[2][0]) && !field[0][2].equals(""))
         {
             return true;
         }
@@ -160,26 +167,23 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         return false;
     }
 
-    private void player1Wins()
-    {
+    private void player1Wins() {
         statusTextView.setText("Player X wins!");
     }
 
-    private void player2Wins()
-    {
+    private void player2Wins() {
         statusTextView.setText("Player O wins!");
     }
 
-    private void draw()
-    {
+    private void draw() {
         statusTextView.setText("Draw");
     }
 
     private void resetGame()
     {
-        for(int row=0; row<3; row++)
+        for (int row = 0; row < 3; row++)
         {
-            for(int col=0; col<3; col++)
+            for (int col = 0; col < 3; col++)
             {
                 buttons[row][col].setText("");
             }
