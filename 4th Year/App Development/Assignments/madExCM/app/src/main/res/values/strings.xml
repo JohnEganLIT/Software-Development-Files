@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">madExCM</string>
+
+    <string-array name="currency_array">
+        <item>Euro</item>
+        <item>Pound</item>
+        <item>Dollar</item>
+    </string-array>
+</resources>

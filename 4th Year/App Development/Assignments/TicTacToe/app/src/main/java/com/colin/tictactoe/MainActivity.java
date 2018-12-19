@@ -5,8 +5,6 @@ Used this tutorial as a guide: https://www.youtube.com/watch?v=apDL78MFR3o
 
  */
 
-
-
 package com.colin.tictactoe;
 
 import android.graphics.Color;
