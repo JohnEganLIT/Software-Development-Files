@@ -1,0 +1,4 @@
+#Thu Dec 20 16:25:17 GMT 2018
+base.0=C\:\\Users\\Colin\\Documents\\Github\\Software-Development-Files\\4th Year\\App Development\\Assignments\\SportsLITCM\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
