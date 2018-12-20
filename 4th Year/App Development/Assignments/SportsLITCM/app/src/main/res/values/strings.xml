@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SportsLITCM</string>
+    <string name="contacts_menu">Contacts</string>
+    <string name="facilities_menu">Facilities</string>
+    <string name="reset_menu">Reset App</string>
+    <string name="activity_details_title">Activity Details</string>
+    <string name="dummydata_menu">Add Dummy Data</string>
+</resources>
