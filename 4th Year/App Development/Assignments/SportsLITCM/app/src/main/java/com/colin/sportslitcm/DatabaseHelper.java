@@ -9,8 +9,6 @@ import android.widget.Toast;
 
 import java.io.Serializable;
 
-// Reference: https://www.youtube.com/watch?v=aQAIMY-HzL8
-
 public class DatabaseHelper extends SQLiteOpenHelper
 {
     private static DatabaseHelper instance = null;
@@ -45,6 +43,7 @@ public class DatabaseHelper extends SQLiteOpenHelper
     {
         String createQuery = "CREATE TABLE " + TABLE_NAME + "(" + COL_1 + " INTEGER PRIMARY KEY AUTOINCREMENT, " + COL_2 + " TEXT, " + COL_3 + " TEXT, " + COL_4 + " TEXT, " + COL_5 + " TEXT, " + COL_6 + " TEXT, " + COL_7 + " TEXT)";
         db.execSQL(createQuery);
+        addDummyData();
     }
 
     @Override
@@ -96,14 +95,21 @@ public class DatabaseHelper extends SQLiteOpenHelper
         return cursor;
     }
 
-    public void deleteActivity(String id)
+    public boolean deleteActivity(String id)
     {
         SQLiteDatabase db = this.getWritableDatabase();
 
-        db.execSQL("DELETE FROM " + TABLE_NAME + " WHERE id = " + id);
+        if(db.delete(TABLE_NAME, "id = " + id, null) == 1)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
     }
 
-    public void updateActivity(String id, String name, String date, String time, String location, String campus, String details)
+    public boolean updateActivity(String id, String name, String date, String time, String location, String campus, String details)
     {
         SQLiteDatabase db = this.getWritableDatabase();
 
@@ -115,28 +121,13 @@ public class DatabaseHelper extends SQLiteOpenHelper
         contentValues.put(COL_6, campus);
         contentValues.put(COL_7, details);
 
-        long result = db.update(TABLE_NAME, contentValues, "id="+ id, null);
-    }
-
-    // Adds dummy data for testing.
-    public void addDummyData()
-    {
-        SQLiteDatabase db = this.getWritableDatabase();
-
-        // Adds dummy data if db is empty.
-        String countQuery = "SELECT count(*) FROM " + TABLE_NAME;
-        Cursor cursor = db.rawQuery(countQuery, null);
-        cursor.moveToFirst();
-        int count = cursor.getInt(0);
-        if(count == 0)
+        if(db.update(TABLE_NAME, contentValues, "id="+ id, null) == 1)
         {
-            addActivity("Rugby Match", "07/01/18", "15:00", "Rugby Pitch", "Moylish", "LIT VS UCC.");
-            addActivity("Soccer Training", "07/01/18", "12:00", "Soccer Pitch", "Thurles", "Practice for next weeks match.");
-            addActivity("Hurling Match", "08/01/18", "16:00", "GAA Pitch", "Clonmel", "LIT VS CIT.");
-            addActivity("Camogie Match", "09/01/18", "15:00", "GAA Pitch", "Moylish", "LIT VS UL.");
-            addActivity("Team Meeting", "09/01/18", "15:00", "Lecture Rooms", "Moylish", "Everyone needs to attend.");
-            addActivity("Basketball Match", "10/01/18", "12:30", "Rugby Pitch", "Clonmel", "Friendly vs UCD");
-            addActivity("5 Aside Soccer Match", "11/01/18", "15:30", "Soccer Pitch", "Moylish", "Friendly");
+            return true;
+        }
+        else
+        {
+            return false;
         }
     }
 
@@ -146,5 +137,17 @@ public class DatabaseHelper extends SQLiteOpenHelper
 
         db.execSQL("DROP TABLE IF EXISTS " + TABLE_NAME);
         onCreate(db);
+    }
+
+    // Adds dummy data for testing.
+    public void addDummyData()
+    {
+        addActivity("Rugby Match", "07/01/18", "15:00", "Rugby Pitch", "Moylish", "LIT VS UCC.");
+        addActivity("Soccer Training", "07/01/18", "12:00", "Soccer Pitch", "Thurles", "Practice for next weeks match.");
+        addActivity("Hurling Match", "08/01/18", "16:00", "GAA Pitch", "Clonmel", "LIT VS CIT.");
+        addActivity("Camogie Match", "09/01/18", "15:00", "GAA Pitch", "Moylish", "LIT VS UL.");
+        addActivity("Team Meeting", "09/01/18", "15:00", "Lecture Rooms", "Moylish", "Everyone needs to attend.");
+        addActivity("Basketball Match", "10/01/18", "12:30", "Rugby Pitch", "Clonmel", "Friendly vs UCD");
+        addActivity("5 Aside Soccer Match", "11/01/18", "15:30", "Soccer Pitch", "Moylish", "Friendly");
     }
 }

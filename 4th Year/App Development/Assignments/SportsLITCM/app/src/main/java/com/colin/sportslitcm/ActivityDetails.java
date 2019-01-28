@@ -1,24 +1,29 @@
 package com.colin.sportslitcm;
 
-import android.content.Context;
 import android.content.Intent;
 import android.database.Cursor;
 import android.os.Bundle;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
-import android.widget.ArrayAdapter;
-import android.widget.ListAdapter;
+import android.view.MenuItem;
+import android.view.View;
+import android.widget.Button;
+import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.Toast;
-
-import java.io.Serializable;
-import java.util.ArrayList;
 
 public class ActivityDetails extends AppCompatActivity
 {
     DatabaseHelper activitiesDb;
 
-    private ListView activityDetails;
+    EditText nameTxtBox;
+    EditText dateTxtBox;
+    EditText timeTxtBox;
+    EditText locationTxtBox;
+    EditText campusTxtBox;
+    EditText detailsTxtBox;
+    Button updateButton;
+    Button deleteButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
@@ -26,49 +31,98 @@ public class ActivityDetails extends AppCompatActivity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_details);
 
-        // Changes title text to "Contacts".
+        // Title Bar
         ActionBar actionBar = getSupportActionBar();
         if (actionBar != null)
         {
+            // Sets text.
             actionBar.setTitle(getString(R.string.activity_details_title));
+
+            // Adds back button.
+            actionBar.setDisplayHomeAsUpEnabled(true);
         }
+
+        // Gets the current instance of DatabaseHelper.
         activitiesDb = DatabaseHelper.getInstance(getApplicationContext());
 
-        activityDetails = findViewById(R.id.activityDetails);
+        // References for textboxes and buttons.
+        nameTxtBox = findViewById(R.id.nameTxtBox);
+        dateTxtBox = findViewById(R.id.dateTxtBox);
+        timeTxtBox = findViewById(R.id.timeTxtBox);
+        locationTxtBox = findViewById(R.id.locationTxtBox);
+        campusTxtBox = findViewById(R.id.campusTxtBox);
+        detailsTxtBox = findViewById(R.id.detailsTxtBox);
+        updateButton = findViewById(R.id.updateButton);
+        deleteButton = findViewById(R.id.deleteButton);
 
+        // Gets intent sent from Activities.
         Intent intent = this.getIntent();
-        String id = intent.getStringExtra("activityId");
-        Toast.makeText(this, id, Toast.LENGTH_SHORT).show();
+
+        // Gets activity id from Activities.
+        final String id = Integer.toString((Integer.parseInt(intent.getStringExtra("activityId"))));
+
+        // Gets activity details and sets text box values.
         Cursor data = activitiesDb.getActivity(id);
-        ArrayList<String> listData = new ArrayList<>();
         while(data.moveToNext())
         {
-            String activity = data.getString(0) + " : " + data.getString(1) + " | " + data.getString(2) + " | " + data.getString(3) + " | " + data.getString(4) + " | " + data.getString(5) + " | " + data.getString(6);
-            listData.add(activity);
+            nameTxtBox.setText(data.getString(1));
+            dateTxtBox.setText(data.getString(2));
+            timeTxtBox.setText(data.getString(3));
+            locationTxtBox.setText(data.getString(4));
+            campusTxtBox.setText(data.getString(5));
+            detailsTxtBox.setText(data.getString(6));
         }
 
-        ListAdapter adapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, listData);
-        activityDetails.setAdapter(adapter);
-
-        /*
-
-
-        Cursor data = activitiesDb.getActivity(intent.getStringExtra("activityId"));
-
-        ArrayList<String> listData = new ArrayList<>();
-        while(data.moveToNext())
+        // Listeners.
+        updateButton.setOnClickListener(new View.OnClickListener()
         {
-            String activity = data.getString(0) + " : " + data.getString(1) + " | " + data.getString(2) + " | " + data.getString(3) + " | " + data.getString(4) + " | " + data.getString(5) + " | " + data.getString(6);
-            //listData.add(activity);
+            @Override
+            public void onClick(View v)
+            {
+                if(activitiesDb.updateActivity(id, nameTxtBox.getText().toString(), dateTxtBox.getText().toString(), timeTxtBox.getText().toString(), locationTxtBox.getText().toString(), campusTxtBox.getText().toString(), detailsTxtBox.getText().toString()))
+                {
+                    Toast.makeText(ActivityDetails.this, "Update Successful!", Toast.LENGTH_SHORT).show();
+                    killActivity();
+                }
+                else
+                {
+                    Toast.makeText(ActivityDetails.this, "Update Failed!", Toast.LENGTH_SHORT).show();
+                }
+            }
+        });
 
-            Toast.makeText(this, activity, Toast.LENGTH_SHORT).show();
+        deleteButton.setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View w)
+            {
+                if(activitiesDb.deleteActivity(id))
+                {
+                    Toast.makeText(ActivityDetails.this, "Activity Deleted Successfully!", Toast.LENGTH_SHORT).show();
+                    killActivity();
+                }
+                else
+                {
+                    Toast.makeText(ActivityDetails.this, "Activity Deletion Failed!", Toast.LENGTH_SHORT).show();
+                }
+            }
+        });
+    }
 
-                Toast.makeText(this, "Empty", Toast.LENGTH_SHORT).show();
+    private void killActivity()
+    {
+        finish();
+    }
 
+    // On click code for back button.
+    public boolean onOptionsItemSelected(MenuItem item)
+    {
+        switch (item.getItemId())
+        {
+            case android.R.id.home:
+                finish();
+                return true;
         }
-        /*
-        ListAdapter adapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, listData);
-        activityDetailsList.setAdapter(adapter);
-        */
+        return super.onOptionsItemSelected(item);
     }
 }

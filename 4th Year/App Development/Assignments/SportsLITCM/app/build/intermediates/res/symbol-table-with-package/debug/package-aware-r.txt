@@ -693,6 +693,7 @@ color switch_thumb_normal_material_dark
 color switch_thumb_normal_material_light
 color tooltip_background_dark
 color tooltip_background_light
+color white
 dimen abc_action_bar_content_inset_material
 dimen abc_action_bar_content_inset_with_nav
 dimen abc_action_bar_default_height_material
@@ -1048,9 +1049,10 @@ id action_mode_close_button
 id action_text
 id actions
 id activitiesList
-id activityDetails
 id activity_chooser_view_content
 id add
+id addNewButton
+id add_menu_option
 id alertTitle
 id all
 id always
@@ -1061,6 +1063,7 @@ id beginning
 id blocking
 id bottom
 id buttonPanel
+id campusTxtBox
 id center
 id center_horizontal
 id center_vertical
@@ -1070,6 +1073,7 @@ id chronometer
 id clip_horizontal
 id clip_vertical
 id collapseActionView
+id contactsList
 id contacts_menu_option
 id container
 id content
@@ -1077,6 +1081,7 @@ id contentPanel
 id coordinator
 id custom
 id customPanel
+id dateTxtBox
 id decor_content_parent
 id default_activity_button
 id deleteButton
@@ -1085,10 +1090,10 @@ id design_menu_item_action_area
 id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
+id detailsTxtBox
 id dimensions
 id direct
 id disableHome
-id dummydata_menu_option
 id edit_query
 id end
 id enterAlways
@@ -1096,6 +1101,7 @@ id enterAlwaysCollapsed
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
+id facilitiesList
 id facilities_menu_option
 id fill
 id fill_horizontal
@@ -1124,6 +1130,7 @@ id line1
 id line3
 id listMode
 id list_item
+id locationTxtBox
 id masked
 id message
 id middle
@@ -1131,6 +1138,7 @@ id mini
 id mtrl_child_content_container
 id mtrl_internal_children_alpha_tag
 id multiply
+id nameTxtBox
 id navigation_header_container
 id never
 id none
@@ -1209,6 +1217,7 @@ id textinput_counter
 id textinput_error
 id textinput_helper_text
 id time
+id timeTxtBox
 id title
 id titleDividerNoCustom
 id title_template
@@ -1282,6 +1291,7 @@ layout activities_
 layout activity_contacts
 layout activity_details
 layout activity_facilities
+layout activity_new
 layout content_
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -1311,6 +1321,7 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 menu menu_
 mipmap ic_launcher
+mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 string abc_action_bar_home_description
 string abc_action_bar_up_description
@@ -1352,18 +1363,27 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string activity_details_title
+string add_activity
+string add_menu_option
 string app_name
+string app_title
 string appbar_scrolling_view_behavior
 string bottom_sheet_behavior
+string campus
 string character_counter_content_description
 string character_counter_pattern
 string contacts_menu
+string delete
+string details
 string dummydata_menu
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string facilities_menu
 string hide_bottom_view_on_scroll_behavior
+string location
 string mtrl_chip_close_icon_content_description
+string name
+string new_activity
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through
@@ -1372,6 +1392,8 @@ string path_password_strike_through
 string reset_menu
 string search_menu_title
 string status_bar_notification_info_overflow
+string time
+string update
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog
