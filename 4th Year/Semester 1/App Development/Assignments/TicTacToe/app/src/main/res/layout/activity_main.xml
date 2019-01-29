@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="1">
+
+    <Button
+        android:id="@+id/button_00"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:textSize="60sp"
+        app:autoSizeTextType="uniform"
+        app:autoSizeMinTextSize="12sp"
+        app:autoSizeMaxTextSize="100sp"
+        app:autoSizeStepGranularity="2sp"
+        android:freezesText="true" />
+
+    <Button
+        android:id="@+id/button_01"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:textSize="60sp"
+        app:autoSizeTextType="uniform"
+        app:autoSizeMinTextSize="12sp"
+        app:autoSizeMaxTextSize="100sp"
+        app:autoSizeStepGranularity="2sp"
+        android:freezesText="true" />
+
+    <Button
+        android:id="@+id/button_02"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:textSize="60sp"
+        app:autoSizeTextType="uniform"
+        app:autoSizeMinTextSize="12sp"
+        app:autoSizeMaxTextSize="100sp"
+        app:autoSizeStepGranularity="2sp"
+        android:freezesText="true" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <Button
+            android:id="@+id/button_10"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            app:autoSizeTextType="uniform"
+            app:autoSizeMinTextSize="12sp"
+            app:autoSizeMaxTextSize="100sp"
+            app:autoSizeStepGranularity="2sp"
+            android:freezesText="true" />
+
+        <Button
+            android:id="@+id/button_11"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            app:autoSizeTextType="uniform"
+            app:autoSizeMinTextSize="12sp"
+            app:autoSizeMaxTextSize="100sp"
+            app:autoSizeStepGranularity="2sp"
+            android:freezesText="true" />
+
+        <Button
+            android:id="@+id/button_12"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            app:autoSizeTextType="uniform"
+            app:autoSizeMinTextSize="12sp"
+            app:autoSizeMaxTextSize="100sp"
+            app:autoSizeStepGranularity="2sp"
+            android:freezesText="true" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <Button
+            android:id="@+id/button_20"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            app:autoSizeTextType="uniform"
+            app:autoSizeMinTextSize="12sp"
+            app:autoSizeMaxTextSize="100sp"
+            app:autoSizeStepGranularity="2sp"
+            android:freezesText="true" />
+
+        <Button
+            android:id="@+id/button_21"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            app:autoSizeTextType="uniform"
+            app:autoSizeMinTextSize="12sp"
+            app:autoSizeMaxTextSize="100sp"
+            app:autoSizeStepGranularity="2sp"
+            android:freezesText="true" />
+
+        <Button
+            android:id="@+id/button_22"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            app:autoSizeTextType="uniform"
+            app:autoSizeMinTextSize="12sp"
+            app:autoSizeMaxTextSize="100sp"
+            app:autoSizeStepGranularity="2sp"
+            android:freezesText="true" />
+    </LinearLayout>
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/statusTxtView"
+            android:layout_width="wrap_content"
+            android:layout_height="28dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="6dp"
+            android:layout_marginEnd="8dp"
+            android:textSize="18sp"
+            app:layout_constraintBottom_toTopOf="@+id/newGameBtn"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.501"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:text="@string/status_text" />
+
+        <Button
+            android:id="@+id/newGameBtn"
+            android:layout_width="267dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.501"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/statusTxtView"
+            android:text="@string/new_game_btn" />
+
+    </android.support.constraint.ConstraintLayout>
+
+
+</LinearLayout>

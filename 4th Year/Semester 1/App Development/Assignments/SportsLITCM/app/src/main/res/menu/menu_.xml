@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.colin.sportslitcm.Activities">
+    <item
+        android:id="@+id/add_menu_option"
+        android:orderInCategory="100"
+        android:title="@string/add_menu_option"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/contacts_menu_option"
+        android:orderInCategory="100"
+        android:title="@string/contacts_menu"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/facilities_menu_option"
+        android:orderInCategory="100"
+        android:title="@string/facilities_menu"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/reset_menu_option"
+        android:orderInCategory="100"
+        android:title="@string/reset_menu"
+        app:showAsAction="never" />
+</menu>

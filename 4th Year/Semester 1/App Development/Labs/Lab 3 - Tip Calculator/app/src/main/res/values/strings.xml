@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab 3 - Tip Calculator</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="percent">Percent</string>
+    <string name="default_tip_percentage">15%</string>
+    <string name="plus_sign">+</string>
+    <string name="minus_sign">-</string>
+    <string name="tip">Tip</string>
+    <string name="default_tip">€0.00</string>
+    <string name="total">Total</string>
+    <string name="apply_button">Apply</string>
+    <string name="total_bill">€0.00</string>
+    <string name="Discount">€0.00</string>
+    <string name="discount_label">Discount</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SportsLITCM</string>
+    <string name="contacts_menu">Contacts</string>
+    <string name="facilities_menu">Facilities</string>
+    <string name="reset_menu">Reset App</string>
+    <string name="activity_details_title">Activity Details</string>
+    <string name="dummydata_menu">Add Dummy Data</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="add_menu_option">Add Activity</string>
+    <string name="app_title">LIT Sports</string>
+    <string name="add_activity">Add Activity</string>
+    <string name="name">Name</string>
+    <string name="time">Time</string>
+    <string name="location">Location</string>
+    <string name="campus">Campus</string>
+    <string name="details">Details</string>
+    <string name="new_activity">New Activity</string>
+</resources>
