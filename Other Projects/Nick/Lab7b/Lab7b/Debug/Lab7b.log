@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  Lab7b.cpp
+c:\users\colin\documents\github\software-development-files\other projects\nick\lab7b\lab7b\queue.h(51): warning C4018: '<': signed/unsigned mismatch
+  c:\users\colin\documents\github\software-development-files\other projects\nick\lab7b\lab7b\queue.h(49): note: while compiling class template member function 'void Queue<int>::Display(void)'
+  c:\users\colin\documents\github\software-development-files\other projects\nick\lab7b\lab7b\lab7b.cpp(37): note: see reference to function template instantiation 'void Queue<int>::Display(void)' being compiled
+  c:\users\colin\documents\github\software-development-files\other projects\nick\lab7b\lab7b\lab7b.cpp(6): note: see reference to class template instantiation 'Queue<int>' being compiled
+  Queue.cpp
+  Generating Code...
+  Lab7b.vcxproj -> C:\Users\Colin\Documents\Github\Software-Development-Files\Other Projects\Nick\Lab7b\Debug\Lab7b.exe
