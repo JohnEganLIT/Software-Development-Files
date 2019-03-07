@@ -1,16 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package sd4.agentsgui;
 
-/**
- *
- * @author K00208079
- */
- public class Agent {
-    
+ public class Agent 
+ {
     private int id;
     private String name;
     private String fax;
@@ -18,7 +9,8 @@ package sd4.agentsgui;
     private String email;
     private String password;
 
-    public Agent(int id, String name, String fax, String phone, String email, String password) {
+    public Agent(int id, String name, String fax, String phone, String email, String password) 
+    {
         this.id = id;
         this.name = name;
         this.fax = fax;
@@ -27,47 +19,53 @@ package sd4.agentsgui;
         this.password = password;
     }
 
-
-	//generate getters/setters and constructors
-	//possibly override toString()
-
-    public int getId() {
+    public int getId() 
+    {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(int id) 
+    {
         this.id = id;
     }
 
-    public String getName() {
+    public String getName() 
+    {
         return name;
     }
 
-    public void setName(String name) {
+    public void setName(String name) 
+    {
         this.name = name;
     }
 
-    public String getFax() {
+    public String getFax() 
+    {
         return fax;
     }
 
-    public void setFax(String fax) {
+    public void setFax(String fax) 
+    {
         this.fax = fax;
     }
 
-    public String getPhone() {
+    public String getPhone() 
+    {
         return phone;
     }
 
-    public void setPhone(String phone) {
+    public void setPhone(String phone) 
+    {
         this.phone = phone;
     }
 
-    public String getEmail() {
+    public String getEmail() 
+    {
         return email;
     }
 
-    public void setEmail(String email) {
+    public void setEmail(String email) 
+    {
         this.email = email;
     }
 	
