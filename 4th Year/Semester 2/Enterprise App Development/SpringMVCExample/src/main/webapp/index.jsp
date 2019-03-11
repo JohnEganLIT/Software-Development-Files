@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Start Page</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>
+        <form action="add">
+            <input type="text" name="t1"><br>
+            <input type="text" name="t2"><br>
+            <input type="submit">    
+        </form>
+    </body>
+</html>

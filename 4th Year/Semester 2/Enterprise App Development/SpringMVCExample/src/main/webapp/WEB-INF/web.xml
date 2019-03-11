@@ -9,15 +9,15 @@
             30
         </session-timeout>
     </session-config>
-
+    
     <servlet>
-        <servlet-name>telusko</servlet-name>
-        <servlet-class>
-            org.springframework.web.servlet.DispatcherServlet
-        </servlet-class>
+            <servlet-name>telusko</servlet-name>
+            <servlet-class>
+                    org.springframework.web.servlet.DispatcherServlet
+            </servlet-class>
     </servlet>
     <servlet-mapping>
-        <servlet-name>telusko</servlet-name>
-        <url-pattern>/</url-pattern>
+            <servlet-name>telusko</servlet-name>
+            <url-pattern>/</url-pattern>
     </servlet-mapping>
 </web-app>
