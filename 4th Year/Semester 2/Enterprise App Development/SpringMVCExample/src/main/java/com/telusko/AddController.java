@@ -25,4 +25,10 @@ public class AddController
         
         return mv;
     }
+    
+    @RequestMapping("/agents")
+    public void getAgents()
+    {
+        System.out.println("\n***\n***\n***\n***\n*** Get All Agents \n***\n***\n***\n***\n***\n***");
+    }
 }

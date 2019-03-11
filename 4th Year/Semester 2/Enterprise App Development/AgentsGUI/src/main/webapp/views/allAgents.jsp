@@ -24,7 +24,7 @@
             </tr>
             <c:forEach items="${agentList}" var="agent"> 
                 <tr>
-                    <td>${agent.id}</td>
+                    <td>${agent.agentId}</td>
                     <td>${agent.name}</td>
                     <td>${agent.fax}</td>
                     <td>${agent.phone}</td>
