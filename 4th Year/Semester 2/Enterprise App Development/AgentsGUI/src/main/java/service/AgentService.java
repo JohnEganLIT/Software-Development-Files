@@ -9,12 +9,7 @@ import javax.persistence.EntityManager;
 
 public class AgentService 
 {
-    static List<Agents> agentList = new ArrayList();
-    
-    static 
-    {
- 
-    }
+    List<Agents> agentList = new ArrayList();
     
     public List<Agents> getAllAgents() 
     {
