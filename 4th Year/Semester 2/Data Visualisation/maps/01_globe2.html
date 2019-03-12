@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+    <style>
+    </style>
+    <script type="text/javascript">  
+      function draw(geo_data) {
+        "use strict";
+        var margin = 75,
+            width = 1400 - margin,
+            height = 600 - margin;
+
+        var svg = d3.select("body")
+            .append("svg")
+            .attr("width", width + margin)
+            .attr("height", height + margin)
+            .append('g')
+            .attr('class', 'map');
+      
+          var merc_projection = d3.geo.mercator()
+          .scale(150)
+          .translate([width/2.5,height/1.5]);
+          
+    var path = d3.geo.path().projection(merc_projection);
+          
+          var map = svg.selectAll('path')
+          .data(geo_data.features)
+          .enter()
+          .append('path')
+          .attr('d', path)
+          .style('fill', 'SkyBlue')
+          .style('stroke', 'black')
+          .style('stroke-width', 0.5);
+      
+          function plot_world_cup(data){
+              var aggregated_data = d3.nest()
+              .key(function(d){
+                  return d['date'].getUTCFullYear();
+                   debugger;
+                   })
+              .rollup(function(leaves){
+                  var total =d3.sum(leaves, function(d){
+                     return d['attendance']; 
+                  });
+                  var pixel_coords =leaves.map( function(d){
+                     return merc_projection([+d.long, +d.lat]); 
+                  });
+                  
+                  var avg_x = d3.mean(pixel_coords, function(d){
+                      return d[0];
+                  });
+                  var avg_y = d3.mean(pixel_coords, function(d){
+                      return d[1];
+                  });
+                  return{
+                      'attendance' : total,
+                      'x' : avg_x,
+                      'y' : avg_y
+                  };
+              })
+              .entries(data);
+              
+              svg.append('g')
+              .attr("class", "bubble")
+              .selectAll("circle")
+              .data(aggregated_data)
+              .enter()
+              .append("circle")
+              .attr('cx', function(d){return d.values['x'];})
+              .attr('cy', function(d){return d.values['y'];})
+              .attr('r', function(d){return 5;})
+              
+              debugger;
+          };
+           var format = d3.time.format("%d-%m-%Y (%H:%M h)");
+          d3.tsv("world_cup_geo.tsv", function(d){
+              d['attendance'] = +d['attendance'];
+              d['date'] = format.parse(d['date']);
+              return d;
+          }, plot_world_cup);
+          
+      }
+        
+		  
+      </script>
+	  
+  </head>
+<body>
+  <script type="text/javascript">
+  /*
+    Use D3 to load the GeoJSON file
+    */
+    
+d3.json("world_countries.json", draw);
+  </script>
+</body>
+</html>
