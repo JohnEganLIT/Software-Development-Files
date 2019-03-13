@@ -20,7 +20,7 @@
              <th align="left">Fax</th>
              <th align="left">Phone</th>
              <th align="left">Email</th>
-             <th align="left">Actions</th>
+             <th align="left"></th>
             </tr>
             <c:forEach items="${agentList}" var="agent"> 
                 <tr>
@@ -30,11 +30,11 @@
                     <td>${agent.phone}</td>
                     <td>${agent.email}</td>
                     <td>
-                        <a href="">Delete</a>
-                        <a href="">Edit</a>
-                        <a href="">Insert</a>
+                        <a href="delete?agentId=${agent.agentId}">Delete</a>
                     </td>
-                   
+                    <td>
+                        <a href="edit">Edit</a>
+                    </td>                 
                 </tr>
             </c:forEach>
         </table>

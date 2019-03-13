@@ -7,6 +7,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
 @Controller
@@ -17,6 +19,13 @@ public class AuthorController
     @RequestMapping("agents")
     public ModelAndView getAllAgents()
     {     
+        return new ModelAndView("/allAgents", "agentList", service.getAllAgents());
+    }
+    
+    @RequestMapping(name="delete", method=RequestMethod.GET)
+    public ModelAndView deleteAgent(@RequestParam("agentId")int agentId)
+    {
+        service.deleteAnAgent(agentId);
         return new ModelAndView("/allAgents", "agentList", service.getAllAgents());
     }
     

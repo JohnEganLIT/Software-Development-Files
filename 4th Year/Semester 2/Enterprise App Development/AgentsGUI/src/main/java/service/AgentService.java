@@ -18,6 +18,19 @@ public class AgentService
         return em.createNamedQuery("Agents.findAll", Agents.class).getResultList();
     }
     
+    public void deleteAnAgent(int agentId) 
+    {
+        EntityManager em = DBUtil.getEmf().createEntityManager();
+        
+        Agents agent = (Agents) em.createNamedQuery("Agents.findByAgentId")
+                .setParameter("agentId", agentId)
+                .getSingleResult();
+        
+        em.getTransaction().begin();
+        em.remove(agent);
+        em.getTransaction().commit();
+    }
+    
     /*
     public Boolean authenticate(int id, String password)
     {
@@ -39,18 +52,6 @@ public class AgentService
         agentList.add(a);
     }
     
-    public void deleteAnAgent(int id) 
-    {
-        System.out.println("auto wired baby!");
-        Iterator<Agent> iterator = agentList.iterator();
-        while (iterator.hasNext()) 
-        {
-            Agent agent = iterator.next();
-            if (agent.getId() == id) 
-            {
-                iterator.remove();
-            }
-        }
-    }
+    
 */
 }
