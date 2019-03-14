@@ -1,0 +1,7 @@
+C:\Users\Colin\Downloads\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\bin\Debug\OrderManagement.exe.config
+C:\Users\Colin\Downloads\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\bin\Debug\OrderManagement.exe
+C:\Users\Colin\Downloads\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\bin\Debug\OrderManagement.pdb
+C:\Users\Colin\Downloads\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\obj\Debug\OrderManagement.csprojAssemblyReference.cache
+C:\Users\Colin\Downloads\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\obj\Debug\OrderManagement.csproj.CoreCompileInputs.cache
+C:\Users\Colin\Downloads\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\obj\Debug\OrderManagement.exe
+C:\Users\Colin\Downloads\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\obj\Debug\OrderManagement.pdb
