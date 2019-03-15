@@ -1,6 +1,6 @@
-﻿namespace ConsoleApplication2
+﻿namespace OrderManagement
 {
-    class Logger
+    class Logger : ILogger
     {
         public void WriteOrder(string msg)
         {

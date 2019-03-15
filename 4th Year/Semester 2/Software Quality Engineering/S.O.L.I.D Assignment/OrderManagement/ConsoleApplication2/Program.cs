@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication2
+namespace OrderManagement
 {
     class Program
     {
         static void Main(string[] args)
         { 
-            OrdersDB db = new OrdersDB();
-            Logger logger = new Logger();
+            IOrdersDB db = Factory.CreateOrdersDB();
+            ILogger logger = Factory.CreateLogger();
 
             List<IOrder> OrderList = new List<IOrder>();
 

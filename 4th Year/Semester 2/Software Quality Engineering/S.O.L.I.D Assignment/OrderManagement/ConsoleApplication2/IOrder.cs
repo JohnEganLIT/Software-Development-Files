@@ -1,4 +1,4 @@
-﻿namespace ConsoleApplication2
+﻿namespace OrderManagement
 {
     interface IOrder
     {

@@ -4,14 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication2
+namespace OrderManagement
 {
-    class OrdersDB
+    class OrdersDB : IOrdersDB
     {
+        ILogger logger;
+      
+        public OrdersDB(ILogger logger)
+        {
+            this.logger = logger;
+        }
+
         public void Add(IOrder order)
         {
-            Logger logger = new Logger();
-
             try
             {
                 // Will call a DAL API here later.

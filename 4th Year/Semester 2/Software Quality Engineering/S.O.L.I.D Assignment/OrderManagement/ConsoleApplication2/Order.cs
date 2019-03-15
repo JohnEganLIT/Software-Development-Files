@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApplication2
+namespace OrderManagement
 {
     class Order : IOrder
     {

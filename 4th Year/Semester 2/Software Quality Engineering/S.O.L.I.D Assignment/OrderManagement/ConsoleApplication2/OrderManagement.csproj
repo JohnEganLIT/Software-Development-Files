@@ -41,7 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Factory.cs" />
+    <Compile Include="ILogger.cs" />
     <Compile Include="IOrder.cs" />
+    <Compile Include="IOrdersDB.cs" />
     <Compile Include="Logger.cs" />
     <Compile Include="Order.cs" />
     <Compile Include="OrdersDB.cs" />
