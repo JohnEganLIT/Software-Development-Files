@@ -8,7 +8,7 @@ namespace ConsoleApplication2
 {
     class OrdersDB
     {
-        public void Add(Order order)
+        public void Add(IOrder order)
         {
             Logger logger = new Logger();
 

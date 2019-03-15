@@ -5,3 +5,10 @@ C:\Users\Colin\Downloads\ConsoleApplication2\ConsoleApplication2\ConsoleApplicat
 C:\Users\Colin\Downloads\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\obj\Debug\OrderManagement.csproj.CoreCompileInputs.cache
 C:\Users\Colin\Downloads\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\obj\Debug\OrderManagement.exe
 C:\Users\Colin\Downloads\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\obj\Debug\OrderManagement.pdb
+C:\Users\Colin\Documents\Github\Software-Development-Files\4th Year\Semester 2\Software Quality Engineering\S.O.L.I.D Assignment\OrderManagement\ConsoleApplication2\bin\Debug\OrderManagement.exe.config
+C:\Users\Colin\Documents\Github\Software-Development-Files\4th Year\Semester 2\Software Quality Engineering\S.O.L.I.D Assignment\OrderManagement\ConsoleApplication2\bin\Debug\OrderManagement.exe
+C:\Users\Colin\Documents\Github\Software-Development-Files\4th Year\Semester 2\Software Quality Engineering\S.O.L.I.D Assignment\OrderManagement\ConsoleApplication2\bin\Debug\OrderManagement.pdb
+C:\Users\Colin\Documents\Github\Software-Development-Files\4th Year\Semester 2\Software Quality Engineering\S.O.L.I.D Assignment\OrderManagement\ConsoleApplication2\obj\Debug\OrderManagement.csprojAssemblyReference.cache
+C:\Users\Colin\Documents\Github\Software-Development-Files\4th Year\Semester 2\Software Quality Engineering\S.O.L.I.D Assignment\OrderManagement\ConsoleApplication2\obj\Debug\OrderManagement.csproj.CoreCompileInputs.cache
+C:\Users\Colin\Documents\Github\Software-Development-Files\4th Year\Semester 2\Software Quality Engineering\S.O.L.I.D Assignment\OrderManagement\ConsoleApplication2\obj\Debug\OrderManagement.exe
+C:\Users\Colin\Documents\Github\Software-Development-Files\4th Year\Semester 2\Software Quality Engineering\S.O.L.I.D Assignment\OrderManagement\ConsoleApplication2\obj\Debug\OrderManagement.pdb

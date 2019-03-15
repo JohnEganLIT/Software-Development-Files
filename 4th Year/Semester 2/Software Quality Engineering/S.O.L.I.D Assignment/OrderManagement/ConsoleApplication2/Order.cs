@@ -2,7 +2,7 @@
 
 namespace ConsoleApplication2
 {
-    class Order 
+    class Order : IOrder
     {
         public string OrderType { get; set; }
 

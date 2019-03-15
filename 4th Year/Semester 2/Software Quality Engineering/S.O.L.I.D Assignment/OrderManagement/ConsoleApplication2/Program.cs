@@ -13,7 +13,7 @@ namespace ConsoleApplication2
             OrdersDB db = new OrdersDB();
             Logger logger = new Logger();
 
-            List<Order> OrderList = new List<Order>();
+            List<IOrder> OrderList = new List<IOrder>();
 
             // Generate Orders.
             for (int i = 0; i <= 3; i++)
