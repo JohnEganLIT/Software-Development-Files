@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+    <style>
+    </style>
+    <script type="text/javascript">  
+      function draw(geo_data) {
+	  //Defines that JavaScript code should be executed in "strict mode".
+        "use strict";
+		//Declare static varaiables for SVG
+        var margin = 75,
+            width = 1400 - margin,
+            height = 600 - margin;
+
+		//Standard D3 code to create SVG element with class of map
+        var svg = d3.select("body")
+            .append("svg")
+            .attr("width", width + margin)
+            .attr("height", height + margin)
+            .append('g')
+            .attr('class', 'map');
+			
+		//get projection function for mercator
+		var merc_projection = d3.geo.mercator();
+		//https://github.com/d3/d3-geo#paths
+		//Creates a new geographic path generator with the default settings. 
+		//sets the current projectiona of multidimensional array of positions forming multiple polygons
+		var path = d3.geo.path().projection(merc_projection);
+		
+		
+		//The path variaable is a function that gets passed the data
+		//that is bound to each element in the selection 
+		var map = svg.selectAll('path')//no path elements first time round
+						.data(geo_data.features)//get the path values from features
+						.enter()//standard D3 enter function
+						.append('path')//add new path elements
+						.attr('d',path);//set attributes of path elements
+			
+      
+	  
+	  
+	  	  debugger;
+		  }
+      </script>
+	  
+  </head>
+<body>
+  <script type="text/javascript">
+  /*
+    Use D3 to load the GeoJSON file
+    */
+    
+d3.json("world_countries.json", draw);
+  </script>
+</body>
+</html>
